@@ -1,0 +1,795 @@
+id,name,organism,kingdom,family,length,status,homolog,identity,evalue
+QDO73345.1,Pru du 8 Antimicrobial protein,Prunus dulcis (Almond),Plant,Antimicrobial protein,264,No,—,,
+AAO15713.1,Penaeus Pen m 2,Penaeus monodon (Black tiger shrimp),Animal,ATP:guanido phosphotransferase,356,Yes,NP_001093205.1,38.9,2.9e-79
+ABI98020.1,Litopenaeus Lit v 2,Litopenaeus vannamei (Whiteleg Shrimp),Animal,ATP:guanido phosphotransferase,356,No,NP_001093205.1,38.9,1.3e-79
+B0FRF9.1,Litopenaeus Lit v 2,Litopenaeus vannamei (Whiteleg Shrimp),Animal,ATP:guanido phosphotransferase,356,No,NP_001093205.1,38.9,1.2e-79
+C7E3T4.1,Penaeus Pen m 2,Penaeus monodon (Black tiger shrimp),Animal,ATP:guanido phosphotransferase,356,Yes,NP_001093205.1,38.9,1.7e-79
+XP_026780620.1,Pan h 7,Pangasianodon hypophthalmus,Animal,ATP:guanido phosphotransferase,380,No,XP_011538099.1,21.9,8.8e-06
+XP_026777250.1,Pan h 2,Pangasianodon hypophthalmus,Animal,ATP:guanido phosphotransferase,341,No,XP_016856982.1,64.7,2.0e-162
+ACH70914.1,Salmon Sal s 7,Salmo salar (Salmon),Animal,ATP:guanido phosphotransferase,381,No,XP_016877860.1,56.0,1.5e-38
+5ZHQ_A,Scylla arginine kinase Scy p 2,Scylla paramamosain (green mud crab),Animal,ATP:guanido phosphotransferase-Arginine Ki,357,No,NP_001093205.1,38.7,5.9e-79
+A0A976YI25.1,Cal b 2 Arg Kinase,Callinectes bellicosus,Animal,ATP:guanido phosphotransferase-Arginine Ki,357,No,NP_001093205.1,38.7,4.3e-79
+AAV83993.1,Penaeus chinensis arginine kinase,Fenneropenaeus chinensis (Chinese white shrimp),Animal,ATP:guanido phosphotransferase-Arginine Ki,356,Yes,NP_001093205.1,39.2,7.7e-80
+ACR43474.1,Crangon Cra c 2 arginine kinase,Crangon crangon (Shrimp),Animal,ATP:guanido phosphotransferase-Arginine Ki,356,No,NP_001093205.1,39.2,3.3e-78
+AFA45340.1,Scylla arginine kinase Scy p 2,Scylla paramamosain (green mud crab),Animal,ATP:guanido phosphotransferase-Arginine Ki,357,No,NP_001093205.1,39.0,8.0e-80
+C9EIP1.1,Scylla arginine kinase Scy p 2,Scylla serrata (giant mud crab),Animal,ATP:guanido phosphotransferase-Arginine Ki,356,No,NP_001093205.1,39.1,1.5e-79
+AEK65120.1,Amphioctopus arginine kinase,Amphioctopus fangsiao (Octopus),Animal,ATP:guanido phosphotransferase-Arginine Ki,348,No,NP_001349460.1,39.7,2.5e-78
+AAS98889.1,Fenneropenaeus Arginine kinase,Fenneropenaeus chinensis (Chinese white shrimp),Animal,ATP:guanido phosphotransferase-Arginine Ki,53,No,—,,
+AAS98890.1,Fenneropenaeus Arginine kinase,Fenneropenaeus chinensis (Chinese white shrimp),Animal,ATP:guanido phosphotransferase-Arginine Ki,53,No,—,,
+AFA45339.1,Pro c 2 arginine kinase,Procambarus clarkii (red swamp crayfish),Animal,ATP:guanido phosphotransferase-Arginine Ki,357,No,—,,
+A0A161X1M2.1,Dau c 1.04,Daucus carota subsp. sativus,Plant,Bet v I/Major latex protein,155,Yes,—,,
+AAB01092.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet v I/Major latex protein,168,Yes,—,,
+AAB01362.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAB97141.1,Pru av 1 Pru a 1,Prunus armeniaca (Apricot),Plant,Bet v I/Major latex protein,160,Yes,—,,
+AAC02632.1,Pru av 1 Pru a 1,Prunus avium (Cherry),Plant,Bet v I/Major latex protein,160,Yes,—,,
+AAD13683.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD26546.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD26547.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD26548.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD26552.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD26553.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD26554.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD26555.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD26558.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAD29671.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAG40330.1,Corylus Cor a 1,Corylus avellana (European hazelnut),Plant,Bet v I/Major latex protein,161,Yes,—,,
+AAG40331.1,Corylus Cor a 1,Corylus avellana (European hazelnut),Plant,Bet v I/Major latex protein,161,Yes,—,,
+AAK13027.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAK13029.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAK13030.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAL76932.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet v I/Major latex protein,154,Yes,—,,
+AAO25113.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+AAQ91847.1,Arachis Ara h 8,Arachis hypogaea (Peanut),Plant,Bet v I/Major latex protein,157,Yes,—,,
+AAS47035.1,Pru av 1 Pru a 1,Prunus avium (Cherry),Plant,Bet v I/Major latex protein,160,Yes,—,,
+AAS47036.1,Pru av 1 Pru a 1,Prunus avium (Cherry),Plant,Bet v I/Major latex protein,160,Yes,—,,
+AAS47037.1,Pru av 1 Pru a 1,Prunus avium (Cherry),Plant,Bet v I/Major latex protein,160,Yes,—,,
+AAV33670.1,Morus winter accumulating protein,Morus bombycis (Mulberry),Plant,Bet v I/Major latex protein,157,No,—,,
+AAV33672.1,Morus winter accumulating protein,Morus bombycis (Mulberry),Plant,Bet v I/Major latex protein,157,No,—,,
+AAX19889.1,Vigna Vig r 1 PR 10,Vigna radiata (mung bean),Plant,Bet v I/Major latex protein,155,No,—,,
+ABB78006.1,Pru av 1 Pru a 1,Prunus persica (Peach),Plant,Bet v I/Major latex protein,160,Yes,—,,
+ABD39049.1,Fragaria Fra a 1,Fragaria x ananassa (Strawberry),Plant,Bet v I/Major latex protein,160,Yes,—,,
+ABG54495.1,Rubus Rub i 1,Rubus idaeus (raspberry),Plant,Bet v I/Major latex protein,137,No,—,,
+ABG85155.1,Arachis Ara h 8,Arachis hypogaea (Peanut),Plant,Bet v I/Major latex protein,157,Yes,—,,
+ABP97433.1,Arachis Ara h 8,Arachis hypogaea (Peanut),Plant,Bet v I/Major latex protein,153,Yes,—,,
+ACA79908.1,Arachis Ara h 8,Arachis hypogaea (Peanut),Plant,Bet v I/Major latex protein,157,Yes,—,,
+ADL32660.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet v I/Major latex protein,154,Yes,—,,
+AHW81906.1,Morus winter accumulating protein,Morus alba var. atropurpurea (White Mulberry),Plant,Bet v I/Major latex protein,157,No,—,,
+AJE61290.1,Pru av 1 Pru a 1,Prunus persica (Peach),Plant,Bet v I/Major latex protein,160,Yes,—,,
+AJE61291.1,Pru av 1 Pru a 1,Prunus persica (Peach),Plant,Bet v I/Major latex protein,160,Yes,—,,
+APD76154.1,Jug r 5,Juglans regia (English walnut),Plant,Bet v I/Major latex protein,160,Yes,—,,
+BAA13604.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet v I/Major latex protein,154,Yes,—,,
+CAA42646.1,Glycine Gly m 4,Glycine max (Soybean),Plant,Bet v I/Major latex protein,158,Yes,—,,
+CAA58646.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+CAA88833.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+CAA96534.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,159,Yes,—,,
+CAA96535.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,160,Yes,—,,
+CAA96536.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,160,Yes,—,,
+CAA96537.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,160,Yes,—,,
+CAB03715.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet v I/Major latex protein,154,Yes,—,,
+CAB03716.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet v I/Major latex protein,154,Yes,—,,
+CAB06416.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet v I/Major latex protein,154,Yes,—,,
+CAD32318.1,Malus Mal d 1,Malus x domestica (Apple),Plant,Bet v I/Major latex protein,158,Yes,—,,
+CAJ85641.1,Fragaria Fra a 1,Fragaria x ananassa (Strawberry),Plant,Bet v I/Major latex protein,160,Yes,—,,
+CAJ85642.1,Fragaria Fra a 1,Fragaria x ananassa (Strawberry),Plant,Bet v I/Major latex protein,160,Yes,—,,
+CAJ85644.1,Fragaria Fra a 1,Fragaria x ananassa (Strawberry),Plant,Bet v I/Major latex protein,159,Yes,—,,
+CAJ85646.1,Fragaria Fra a 1,Fragaria x ananassa (Strawberry),Plant,Bet v I/Major latex protein,160,Yes,—,,
+O65200.1,Pyrus Pyr c 1,Pyrus communis (Pear),Plant,Bet v I/Major latex protein,159,Yes,—,,
+P49372.1,Apium Api g 1,Apium graveolens (Celery),Plant,Bet v I/Major latex protein,154,Yes,—,,
+P92918.1,Apium Api g 1,Apium graveolens (Celery),Plant,Bet v I/Major latex protein,159,Yes,—,,
+A0A1S3THR8.1,Vigna Vig r 6 Cytokinin-specific binding protein,Vigna radiata var. radiata (mung bean),Plant,Bet v I/Major latex protein-Cytokinin-spec,155,No,—,,
+BAA74451.1,Vigna Vig r 6 Cytokinin-specific binding protein,Vigna radiata (mung bean),Plant,Bet v I/Major latex protein-Cytokinin-spec,155,No,—,,
+1H2O_A,Pru av 1 Pru a 1,Prunus avium (Cherry),Plant,Bet vI/Major latex protein,159,Yes,NP_005176.1,32.5,4.1e-07
+ACE80939.1,Prunus persica Pru p 2 IUIS,Prunus dulcis x Prunus persica (Plant hybrid),Plant,Bet vI/Major latex protein,160,Yes,—,,
+ACX47057.1,Fragaria Fra a 1,Fragaria x ananassa (Strawberry),Plant,Bet vI/Major latex protein,160,Yes,—,,
+ACX47058.1,Fragaria Fra a 1,Fragaria x ananassa (Strawberry),Plant,Bet vI/Major latex protein,159,Yes,—,,
+ADL32661.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet vI/Major latex protein,154,Yes,—,,
+ADL32662.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet vI/Major latex protein,154,Yes,—,,
+ADL32663.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet vI/Major latex protein,154,Yes,—,,
+ADL32664.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet vI/Major latex protein,154,Yes,—,,
+ADL32665.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet vI/Major latex protein,154,Yes,—,,
+ADL32666.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet vI/Major latex protein,154,Yes,—,,
+BAB88129.1,Daucus Dau c 1,Daucus carota (Carrot),Plant,Bet vI/Major latex protein,154,Yes,—,,
+BBE27860.1,Fragaria Fra a 1,Fragaria x ananassa (Strawberry),Plant,Bet vI/Major latex protein,160,Yes,—,,
+AAL75449.1,Solanum Sola l 2 Beta-fructofuranosidase (Lyc e ,Solanum lycopersicum (Lycopersicon esculentum) (,Plant,Beta-fructofuranosidase,553,No,—,,
+AAL75450.1,Solanum Sola l 2 Beta-fructofuranosidase (Lyc e ,Solanum lycopersicum (Lycopersicon esculentum) (,Plant,Beta-fructofuranosidase,636,No,—,,
+ABW98945.1,Bos Alpha-s1 casein,Bos taurus (Bovine),Animal,casein,172,Yes,NP_001020275.1,36.3,4.1e-09
+XP_005902099.2,Bos Bos d 11 beta casein,Bos grunniens mutus (Yak),Animal,casein,259,Yes,NP_001157790.1,25.0,9.7e-29
+ABW98943.1,Bos Alpha-s1 casein,Bos taurus (Bovine),Animal,casein,205,Yes,NP_001881.1,29.1,4.9e-10
+AAA30430.1,Bos Bos d 11 beta casein,Bos taurus (Bovine),Animal,casein,224,Yes,NP_001882.1,53.7,3.6e-32
+AAA30431.1,Bos Bos d 11 beta casein,Bos taurus (Bovine),Animal,casein,224,Yes,NP_001882.1,54.9,2.1e-32
+AAB29137.1,Bos Bos d 11 beta casein,Bos taurus (Bovine),Animal,casein,224,Yes,NP_001882.1,55.5,1.5e-32
+AAA62707.1,Bos Alpha-s1 casein,Bos taurus (Bovine),Animal,casein,93,Yes,XP_006714152.1,36.3,1.4e-07
+NP_851372.1,Bos Alpha-s1 casein,Bos taurus (Bovine),Animal,casein,214,Yes,XP_006714153.1,31.6,1.5e-15
+AAA30429.1,Bos Alpha-s1 casein,Bos taurus (Bovine),Animal,casein,214,Yes,XP_006714153.1,29.7,4.8e-15
+AAA30478.1,Bos Alpha-s1 casein,Bos taurus (Bovine),Animal,casein,76,Yes,—,,
+ABW98953.1,Bos Alpha-s1 casein,Bos taurus (Bovine),Animal,casein,129,Yes,—,,
+P22895.1,Glycine Gly m Bd 30 kDa,Glycine max (Soybean),Plant,Cathepsin propeptide inhibitor domain,379,No,NP_001191343.1,24.0,4.9e-08
+BAA25899.1,Glycine Gly m Bd 30 kDa,Glycine max (Soybean),Plant,Cathepsin propeptide inhibitor domain,379,No,NP_001371643.1,22.4,3.5e-12
+AAB09252.1,Glycine Gly m Bd 30 kDa,Glycine max (Soybean),Plant,Cathepsin propeptide inhibitor domain,379,No,NP_071447.1,24.0,2.9e-08
+CAA34486.1,Actinidia Act c 1 Act d 1 Actinidin,Actinidia deliciosa (Kiwi),Plant,Cathepsin propeptide inhibitor domain-Acti,380,Yes,NP_001191343.1,25.2,1.8e-10
+P00785.4,Actinidia Act c 1 Act d 1 Actinidin,Actinidia chinensis (Kiwi),Plant,Cathepsin propeptide inhibitor domain-Acti,380,Yes,NP_001191343.1,24.7,8.0e-11
+A5HII1.1,Actinidia Act c 1 Act d 1 Actinidin,Actinidia deliciosa (Kiwi),Plant,Cathepsin propeptide inhibitor domain-Acti,380,Yes,NP_001191343.1,25.0,1.3e-10
+AAA32629.1,Actinidia Act c 1 Act d 1 Actinidin,Actinidia deliciosa (Kiwi),Plant,Cathepsin propeptide inhibitor domain-Acti,380,Yes,NP_001191343.1,24.7,9.7e-11
+BBA83994.1,Actinidia Act c 1 Act d 1 Actinidin,Actinidia chinensis (Kiwi),Plant,Cathepsin propeptide inhibitor domain-Acti,380,Yes,NP_001191343.1,24.3,2.9e-09
+ACX37090.1,Zea mays Zea m 8,Zea mays (Corn),Plant,Chitin recognition protein,278,No,—,,
+ADN39439.1,Castanea Cas s 5,Castanea sativa (European chestnut),Plant,Chitin recognition protein,298,Yes,—,,
+CAA64868.1,Castanea Cas s 5,Castanea sativa (European chestnut),Plant,Chitin recognition protein,316,Yes,—,,
+CAB01591.1,Persea Pers a 1,Persea americana (Avocado),Plant,Chitin recognition protein,326,No,—,,
+CAC81811.1,Musa Mus s 2,Musa acuminata (Banana),Plant,Chitin recognition protein,318,No,—,,
+AAX77383.1,Sinapis Sin a 2.01 11S globulin,Sinapis alba (White mustard),Plant,Collagen triple helix repea,510,Yes,XP_054201209.1,28.7,2.0e-03
+XP_014048044.1,Sal s 6,Salmo salar (Salmon),Animal,Collagen triple helix repeat,1449,Yes,NP_001837.2,31.7,5.9e-13
+XP_013998297.1,Sal s 6,Salmo salar (Salmon),Animal,Collagen triple helix repeat,1356,Yes,NP_113664.1,22.9,1.2e-04
+XP_014059932.1,Sal s 6,Salmo salar (Salmon),Animal,Collagen triple helix repeat,1449,Yes,XP_047297775.1,32.7,8.9e-14
+XP_014033985.1,Sal s 6,Salmo salar (Salmon),Animal,Collagen triple helix repeat,1356,Yes,XP_054182422.1,32.2,1.0e-15
+XP_018521723.1,Lat c 6,Lates calcarifer (Asian Seabass),Animal,Collagen triple helix repeat,1449,Yes,XP_011517608.1,37.1,8.2e-24
+XP_018522130.1,Lat c 6,Lates calcarifer (Asian Seabass),Animal,Collagen triple helix repeat,1355,Yes,XP_011529155.1,31.8,8.1e-26
+AAO73305.1,Eriocheir sinensis Eri s 2,Eriocheir sinensis (Chinese mitten crab),Animal,C-type Lectin,252,Yes,—,,
+CAA23711.1,Gallus Gal d 4,Gallus gallus (chicken),Animal,C-type lysozyme/alpha-lactalbumin family S,147,Yes,NP_001371279.1,39.5,9.7e-26
+P00698.1,Gallus Gal d 4,Gallus gallus (chicken),Animal,C-type lysozyme/alpha-lactalbumin family S,147,Yes,NP_001371279.1,39.5,4.7e-26
+AAX77384.1,Sinapis Sin a 2.01 11S globulin,Sinapis alba (White mustard),Plant,Cupin,523,Yes,NP_001305681.1,45.3,1.4e-02
+3EHK_A,Prunus Pru du 6 Amandin,Prunus dulcis (Almond),Plant,Cupin,531,No,—,,
+3S7E_A,Arachis Ara h 1,Arachis hypogaea (Peanut),Plant,Cupin,418,Yes,—,,
+3SMH_A,Arachis Ara h 1,Arachis hypogaea (Peanut),Plant,Cupin,418,Yes,—,,
+5E1R_F,Carya i Car i 2.0101 vicilin,Carya illinoinensis (Pecan),Plant,Cupin,426,No,—,,
+AAA33947.1,Glycine Gly m 5.0101 alpha subunit beta congl,Glycine max (Soybean),Plant,Cupin,218,No,—,,
+AAA33964.1,Glycine Gly m 6.0501,Glycine max (Soybean),Plant,Cupin,516,No,—,,
+AAA33965.1,Glycine Gly m 6.0501,Glycine max (Soybean),Plant,Cupin,240,No,—,,
+AAA33966.1,Glycine Gly m 6.0101,Glycine max (Soybean),Plant,Cupin,495,No,—,,
+AAB01374.1,Glycine Gly m 5.0201 alpha prime beta congly,Glycine max (Soybean),Plant,Cupin,639,No,—,,
+AAD42944.1,Sesamum Ses i 6,Sesamum indicum (Sesame),Plant,Cupin,459,Yes,—,,
+AAF18269.1,Jug r 2,Juglans regia (English walnut),Plant,Cupin,593,No,—,,
+AAK15087.1,Sesamum Ses i 7,Sesamum indicum (Sesame),Plant,Cupin,497,No,—,,
+AAK15089.1,Sesamum Ses i 3,Sesamum indicum (Sesame),Plant,Cupin,585,No,—,,
+AAL73404.1,Corylus Cor a 9,Corylus avellana (European hazelnut),Plant,Cupin,515,Yes,—,,
+AAM54366.1,Jug r 2,Juglans nigra (Black walnut),Plant,Cupin,481,No,—,,
+AAT00594.1,Arachis Ara h 1,Arachis hypogaea (Peanut),Plant,Cupin,303,Yes,—,,
+AAT00595.1,Arachis Ara h 1,Arachis hypogaea (Peanut),Plant,Cupin,299,Yes,—,,
+AAT00596.1,Arachis Ara h 1,Arachis hypogaea (Peanut),Plant,Cupin,428,Yes,—,,
+AAW29810.1,Jug r 4,Juglans regia (English walnut),Plant,Cupin,507,No,—,,
+ABB77213.1,Actinidia Act d 12,Actinidia chinensis (Kiwi),Plant,Cupin,462,Yes,—,,
+ABG02262.1,Vigna Vig r 2,Vigna radiata (mung bean),Plant,Cupin,453,No,—,,
+ABO36677.1,Pistacia Pis v 3 vicilin,Pistacia vera (pistachio),Plant,Cupin,519,No,—,,
+ABR21771.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,521,No,—,,
+ABR21772.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,455,No,—,,
+ABV49590.1,Carya i Car i 2.0101 vicilin,Carya illinoinensis (Pecan),Plant,Cupin,792,No,—,,
+ABW23574.1,Vigna Vig r 2,Vigna radiata (mung bean),Plant,Cupin,454,No,—,,
+ACD36974.1,Glycine Gly m Bd 28K,Glycine max (Soybean),Plant,Cupin,373,No,—,,
+ACD36975.1,Glycine Gly m Bd 28K,Glycine max (Soybean),Plant,Cupin,373,No,—,,
+ACD36976.1,Glycine Gly m Bd 28K,Glycine max (Soybean),Plant,Cupin,373,No,—,,
+ACD36978.1,Glycine Gly m Bd 28K,Glycine max (Soybean),Plant,Cupin,455,No,—,,
+ADN39440.1,Prunus Pru du 6 Amandin,Prunus dulcis (Almond),Plant,Cupin,551,No,—,,
+ADN39441.1,Prunus Pru du 6 Amandin,Prunus dulcis (Almond),Plant,Cupin,504,No,—,,
+ADQ53858.1,Arachis Ara h 1,Arachis hypogaea (Peanut),Plant,Cupin,619,Yes,—,,
+AGR27935.1,Prunus Pru du 6 Amandin,Prunus dulcis (Almond),Plant,Cupin,178,No,—,,
+AHC94918.1,Pinus koraiensis vicilin Pin k 2.0101,Pinus koraiensis,Plant,Cupin,463,No,—,,
+APR62629.1,Jug n 4,Juglans nigra (Black walnut),Plant,Cupin,510,No,—,,
+BAA00154.1,Glycine Gly m 6.0201,Glycine max (Soybean),Plant,Cupin,485,No,—,,
+BAA23360.2,Glycine Gly m 5.0101 alpha subunit beta congl,Glycine max (Soybean),Plant,Cupin,543,No,—,,
+BAA74452.2,Glycine Gly m 5.0201 alpha prime beta congly,Glycine max (Soybean),Plant,Cupin,559,No,—,,
+BAA74953.1,Glycine Gly m 6.0401,Glycine max (Soybean),Plant,Cupin,563,No,—,,
+BAB15802.1,Glycine Gly m 6.0501,Glycine max (Soybean),Plant,Cupin,517,No,—,,
+BAB21619.2,Glycine Gly m Bd 28K,Glycine max (Soybean),Plant,Cupin,476,No,—,,
+BAB64303.1,Glycine Gly m 5.0201 alpha prime beta congly,Glycine max (Soybean),Plant,Cupin,621,No,—,,
+BAB64306.1,Glycine Gly m 5.0301 beta sub unit beta congl,Glycine max (Soybean),Plant,Cupin,439,No,—,,
+CAA26478.1,Glycine Gly m 6.0401,Glycine max (Soybean),Plant,Cupin,562,No,—,,
+CAA26575.1,Glycine Gly m 6.0201,Glycine max (Soybean),Plant,Cupin,485,No,—,,
+CAA26723.1,Glycine Gly m 6.0101,Glycine max (Soybean),Plant,Cupin,495,No,—,,
+CAA33217.1,Glycine Gly m 6.0301,Glycine max (Soybean),Plant,Cupin,481,No,—,,
+CAA35691.1,Glycine Gly m 5.0101 alpha subunit beta congl,Glycine max (Soybean),Plant,Cupin,605,No,—,,
+CAA37044.1,Glycine Gly m 6.0401,Glycine max (Soybean),Plant,Cupin,562,No,—,,
+CAA60533.1,Glycine Gly m 6.0401,Glycine soja (Soybean),Plant,Cupin,563,No,—,,
+CAB82855.1,Pisum Pis s 2,Pisum sativum (Pea),Plant,Cupin,613,No,—,,
+CAD87730.1,Lens Len c 1,Lens culinaris (Lentil),Plant,Cupin,418,No,—,,
+CAD87731.1,Lens Len c 1,Lens culinaris (Lentil),Plant,Cupin,415,No,—,,
+CAF25232.1,Pisum Pis s 1,Pisum sativum (Pea),Plant,Cupin,415,No,—,,
+CAF25233.1,Pisum Pis s 1,Pisum sativum (Pea),Plant,Cupin,415,No,—,,
+CAI84850.2,Lupinus albus congluten beta,Lupinus albus (white lupine),Plant,Cupin,531,No,—,,
+F5B8V9.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,611,No,—,,
+F5B8W0.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,603,No,—,,
+F5B8W1.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,580,No,—,,
+F5B8W2.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,590,No,—,,
+F5B8W3.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,637,No,—,,
+F5B8W4.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,593,No,—,,
+F5B8W5.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin,605,No,—,,
+F7J077.1,Glycine Gly m 5.0301 beta sub unit beta congl,Glycine max (Soybean),Plant,Cupin,439,No,—,,
+P13744.1,Cuc ma 4,Cucurbita maxima,Plant,Cupin,480,No,—,,
+P25974.1,Glycine Gly m 5.0301 beta sub unit beta congl,Glycine max (Soybean),Plant,Cupin,439,No,—,,
+P43237.1,Arachis Ara h 1,Arachis hypogaea (Peanut),Plant,Cupin,614,Yes,—,,
+P43238.1,Arachis Ara h 1,Arachis hypogaea (Peanut),Plant,Cupin,626,Yes,—,,
+Q6EBC1.1,Lupinus albus congluten beta,Lupinus albus (white lupine),Plant,Cupin,533,No,—,,
+QFG58557.1,Pru du x Prunus dulcis vicilin,Prunus dulcis (Almond),Plant,Cupin,547,No,—,,
+BAO50870.1,Fagopyrum esculentum 13S globulins IgE binding,Fagopyrum esculentum (Buckwheat),Plant,Cupin- globulins IgE binding,453,No,—,,
+ABG73109.1,Pistacia 11S globulin,Pistacia vera (pistachio),Plant,Cupin-globulin,496,No,—,,
+ABG73110.1,Pistacia 11S globulin,Pistacia vera (pistachio),Plant,Cupin-globulin,472,No,—,,
+ABU42022.1,Pistacia 11S globulin,Pistacia vera (pistachio),Plant,Cupin-globulin,472,No,—,,
+BAO50872.1,Fagopyrum esculentum 13S globulins IgE binding,Fagopyrum esculentum (Buckwheat),Plant,Cupin-globulins IgE binding,453,No,—,,
+3C3V_A,Arachis Ara h 3 Glycinin,Arachis hypogaea (Peanut),Plant,Cupin-Glycinin,510,Yes,—,,
+AAC63045.1,Arachis Ara h 3 Glycinin,Arachis hypogaea (Peanut),Plant,Cupin-Glycinin,507,Yes,—,,
+AAD47382.1,Arachis Ara h 3 Glycinin,Arachis hypogaea (Peanut),Plant,Cupin-Glycinin,530,Yes,—,,
+AAM46958.1,Arachis Ara h 3 Glycinin,Arachis hypogaea (Peanut),Plant,Cupin-Glycinin,538,Yes,—,,
+AAM93157.1,Arachis Ara h 3 Glycinin,Arachis hypogaea (Peanut),Plant,Cupin-Glycinin,219,Yes,—,,
+ABI17154.1,Arachis Ara h 3 Glycinin,Arachis hypogaea (Peanut),Plant,Cupin-Glycinin,512,Yes,—,,
+ACH91862.1,Arachis Ara h 3 Glycinin,Arachis hypogaea (Peanut),Plant,Cupin-Glycinin,530,Yes,—,,
+ADQ53859.1,Arachis Ara h 3 Glycinin,Arachis hypogaea (Peanut),Plant,Cupin-Glycinin,512,Yes,—,,
+6B4S_A,Bertholletia Ber e 2,Bertholletia excelsa (Brazil nut),Plant,Cupin-Seed Storage and Functional Proteins,426,No,—,,
+AAM73729.1,Anacardium Ana o 1,Anacardium occidentale (Cashew),Plant,Cupin-Seed Storage and Functional Proteins,536,Yes,—,,
+AAM73730.2,Anacardium Ana o 1,Anacardium occidentale (Cashew),Plant,Cupin-Seed Storage and Functional Proteins,538,Yes,—,,
+AAN76862.1,Anacardium Ana o 2,Anacardium occidentale (Cashew),Plant,Cupin-Seed Storage and Functional Proteins,457,Yes,—,,
+AAO38859.1,Bertholletia Ber e 2,Bertholletia excelsa (Brazil nut),Plant,Cupin-Seed Storage and Functional Proteins,465,No,—,,
+ACB05815.1,Lupinus Lup an 1 conglutin beta,Lupinus angustifolius (blue lupin),Plant,Cupin-Seed Storage and Functional Proteins,611,No,—,,
+AEY79726.1,Daucus cyclophilin,Daucus carota (Carrot),Plant,cyclophilin,171,No,NP_115861.1,38.7,1.4e-21
+BAN29066.1,Triticum Tri a 20,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,279,Yes,NP_000828.1,40.7,1.0e-02
+CAA30570.1,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,356,No,NP_006378.3,30.9,1.3e-02
+AAX57578.1,Fagopyrum Fag e 2 Fag t 2,Fagopyrum esculentum (Buckwheat),Plant,Cys-rich plant lipid transfer protein,127,No,—,,
+ABC18306.1,Fagopyrum Fag e 2 Fag t 2,Fagopyrum esculentum (Buckwheat),Plant,Cys-rich plant lipid transfer protein,149,No,—,,
+AEH31546.1,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,369,No,—,,
+BAB79444.1,Fagopyrum BW 8 kDa protein,Fagopyrum esculentum (Buckwheat),Plant,Cys-rich plant lipid transfer protein,133,No,—,,
+CAA31685.1,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,307,No,—,,
+CAA36063.1,Triticum Tri a 36,Triticum turgidum subsp. durum (Wheat),Plant,Cys-rich plant lipid transfer protein,295,No,—,,
+CAA44473.1,Triticum Tri a 36,Triticum turgidum subsp. durum (Wheat),Plant,Cys-rich plant lipid transfer protein,285,No,—,,
+CAA46782.1,Brassica Bra r 1,Brassica rapa (Turnip),Plant,Cys-rich plant lipid transfer protein,178,No,—,,
+CAA51204.1,Hordeum Hor v 20,Hordeum vulgare (Barley),Plant,Cys-rich plant lipid transfer protein,286,Yes,—,,
+CAA59338.1,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,229,No,—,,
+CAA59339.1,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,261,No,—,,
+CAA59340.1,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,276,No,—,,
+CAI64398.1,Triticum aestivum Tri a 44,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,94,No,—,,
+CAI79052.1,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,326,No,—,,
+CAY54134.1,"Triticum Tri a 21 alpha, beta-gliadin",Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,281,No,—,,
+O22108,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Cys-rich plant lipid transfer protein,285,No,—,,
+ACB45874.1,Cucumis Cuc m 3,Cucumis melo var. inodorus (Muskmelon),Plant,Cys-rich Protein,151,Yes,NP_733758.1,25.9,1.5e-04
+P80198.1,Hordeum Hor v 20,Hordeum vulgare (Barley),Plant,Cys-rich Protein,289,Yes,—,,
+CAK50389.1,Anisakis Ani s 4,Anisakis simplex (Parasitic fish worm),Animal,Cystatin domain,115,Yes,—,,
+ACR43475.1,Crangon Cra c 4 sarcoplasmic calcium-binding pro,Crangon crangon (Shrimp),Animal,EF hand domain-sarcoplasmic calcium-bindin,193,No,NP_001337653.1,26.2,2.0e-03
+XP_026772003.1,Pangasianodon hypothalmus Pan h 1,Pangasianodon hypophthalmus,Animal,EF-hand domain,109,No,NP_000026.2,69.8,0.0e+00
+XP_026803769.1,Pangasianodon hypothalmus Pan h 1,Pangasianodon hypophthalmus,Animal,EF-hand domain,109,No,NP_000356.1,84.0,6.0e-154
+P86431.1,Oncorhynchus Rainbow trout parv Onc m 1,Oncorhynchus mykiss (rainbow trout),Animal,EF-hand domain,108,No,NP_001091091.1,41.2,3.7e-20
+CAM56785.1,Gadus Gad c 1 Gad m 1,Gadus morhua (Atlantic cod),Animal,EF-hand domain,109,Yes,NP_001302461.1,51.4,7.5e-30
+AAK63086.1,Gadus Gad c 1 Gad m 1,Gadus morhua (Atlantic cod),Animal,EF-hand domain,109,Yes,NP_001302461.1,34.8,3.0e-05
+ACC76803.1,Litopenaeus Lit v 3 myosin,Litopenaeus vannamei (Whiteleg Shrimp),Animal,EF-hand Domain,177,No,NP_001305425.1,25.7,4.9e-06
+ADV17342.1,Pen m 3 myosin light chain,Penaeus monodon (Black tiger shrimp),Animal,EF-hand Domain,177,No,NP_001305425.1,26.3,9.9e-07
+CAC95152.1,Rana Ran e 2,Rana esculenta (Frog),Animal,EF-hand domain,109,No,NP_001341568.1,38.1,3.1e-15
+P86432.1,Oncorhynchus Rainbow trout parv Onc m 1,Oncorhynchus mykiss (rainbow trout),Animal,EF-hand domain,107,No,NP_001341568.1,31.8,6.4e-08
+CAM56786.1,Gadus Gad c 1 Gad m 1,Gadus morhua (Atlantic cod),Animal,EF-hand domain,109,Yes,NP_005176.1,29.9,2.9e-04
+CAQ72968.1,Sebastes Seb m 1,Sebastes marinus (ocean perch (red fish)),Animal,EF-hand domain,109,No,NP_005176.1,28.9,2.6e-06
+CAQ72969.1,Sebastes Seb m 1,Sebastes marinus (ocean perch (red fish)),Animal,EF-hand domain,110,No,NP_005176.1,30.9,1.3e-06
+P02622.1,Gadus Gad c 1 Gad m 1,Gadus callarias (Baltic cod),Animal,EF-hand domain,113,Yes,NP_005176.1,29.3,2.2e-05
+AAK63087.1,Gadus Gad c 1 Gad m 1,Gadus morhua (Atlantic cod),Animal,EF-hand Domain,109,Yes,NP_005176.1,29.9,3.7e-04
+AAT45383.1,Lates Lat c 1,Lates calcarifer (Asian Seabass),Animal,EF-hand domain,109,No,NP_005176.1,29.5,2.6e-07
+CAC95153.1,Rana Ran e 2,Rana sp. CH-2001 (Frog),Animal,EF-hand domain,109,No,NP_006179.2,48.6,4.5e-31
+CAP17694.1,Lepidorhombus Lep w 1 parvalbumin,Lepidorhombus whiffiagonis (Flat fish),Animal,EF-hand domain,109,No,NP_006179.2,51.5,8.1e-30
+CAQ72970.1,Clupea Clu h 1,Clupea harengus (Atlantic herring),Animal,EF-hand domain,109,No,NP_006179.2,47.7,3.4e-31
+CAQ72971.1,Clupea Clu h 1,Clupea harengus (Atlantic herring),Animal,EF-hand domain,110,No,NP_006179.2,52.3,5.3e-33
+AOO96842.1,Oncorhynchus Rainbow trout parv Onc m 1,Oncorhynchus mykiss (rainbow trout),Animal,EF-hand domain,97,No,NP_006179.2,49.4,3.5e-24
+P02604.3,Gallus gallus Gal d 7,Gallus gallus (chicken),Animal,EF-hand Domain,192,No,NP_660201.1,25.7,5.9e-10
+CAC83046.1,Rana Ran e 1,Rana esculenta (Frog),Animal,EF-hand domain,110,No,XP_047276867.1,32.1,1.6e-07
+CAQ72972.1,Clupea Clu h 1,Clupea harengus (Atlantic herring),Animal,EF-hand domain,109,No,XP_047297421.1,36.2,8.7e-04
+CAC83047.1,Rana Ran e 1,Rana sp. CH-2001 (Frog),Animal,EF-hand domain,110,No,XP_047299921.1,28.4,2.8e-02
+Q91483.3,Salmo Sal s 1,Salmo salar (Salmon),Animal,EF-hand domain,108,Yes,XP_054180172.1,35.1,2.5e-02
+XP_018814692.1,Jug r 6,Juglans regia (English walnut),Plant,EF-hand domain,502,No,XP_054182419.1,32.2,1.2e-10
+CAA66403.1,Salmo Sal s 1,Salmo salar (Salmon),Animal,EF-hand domain,109,Yes,XP_054206242.1,28.8,4.4e-02
+ACI68103.1,Salmo Sal s 1,Salmo salar (Salmon),Animal,EF-hand domain,109,Yes,XP_054206242.1,28.8,4.2e-02
+AAV97933.1,Lates Lat c 1,Lates calcarifer (Asian Seabass),Animal,EF-hand domain,109,No,—,,
+ACM89179.1,Litopenaeus Lit v 4 sarcoplasmic Ca+ binding,Litopenaeus vannamei (Whiteleg Shrimp),Animal,EF-hand domain,193,Yes,—,,
+ADV17343.1,Penaeus Pen m 4 sarcoplasmic calcium binding,Penaeus monodon (Black tiger shrimp),Animal,EF-hand domain,193,No,—,,
+AFJ80778.1,Scylla paramamosain Scy p 4 Sarc Ca Binding Ptn,Scylla paramamosain (green mud crab),Animal,EF-hand domain,193,No,—,,
+P05946.1,Pontastacus Pon l 4,Pontastacus leptodactylus (Danube crayfish),Animal,EF-hand domain,192,No,—,,
+XP_018558992.1,Lat c 6,Lates calcarifer (Asian Seabass),Animal,EF-Hand Domain,729,Yes,—,,
+BAA09634.1,Brassica Calcim binding protein Group I,Brassica rapa (Turnip),Plant,EF-hand domain-Calcim binding protein Grou,79,No,NP_001171709.1,27.6,1.0e-03
+ACR43478.1,Crangon Cra c 6 troponin C,Crangon crangon (Shrimp),Animal,EF-hand domain-troponin C,150,No,NP_612412.2,25.0,2.5e-05
+CAB58171.1,Anisakis simplex troponin-like,Anisakis simplex (Parasitic fish worm),Animal,EF-hand domain-Troponin-like,161,No,NP_078869.1,22.4,9.0e-03
+NP_990450.1,Gallus enolase Gal d 9,Gallus gallus (chicken),Animal,Enolase,434,Yes,NP_001180432.1,77.4,0.0e+00
+AEM89226.1,Fenneropenaeus enolase,Fenneropenaeus merguiensis (Banana Prawn),Animal,Enolase,117,No,NP_001180432.1,59.0,2.9e-41
+ACH70931.1,Salmo Sal s 2 enolase,Salmo salar (Salmon),Animal,Enolase,434,Yes,XP_006717898.1,24.4,8.0e-16
+CBL79146.1,Salmo Sal s 2 enolase,Salmo salar (Salmon),Animal,Enolase,432,Yes,XP_011538099.1,23.3,1.4e-08
+I0J1J1.1,Thunnus Thu a 2 enolase,Thunnus albacares (Yellowfin tuna),Animal,Enolase,432,Yes,XP_011538099.1,23.3,7.2e-08
+P86978.1,Thunnus Thu a 2 enolase,Thunnus albacares (Yellowfin tuna),Animal,Enolase,12,Yes,—,,
+ACB55491.1,Sesamum seed maturation-like protein,Sesamum indicum (Sesame),Plant,Enoyl-(Acyl carrier protein) reductase-see,345,No,NP_057457.1,20.8,3.5e-02
+BAA06905.1,Cucumis Cuc m 1,Cucumis melo (Muskmelon),Plant,fibronectin type-III domain,731,No,—,,
+QFI57017.1,Scylla paramamosain filamin C,Scylla paramamosain (green mud crab),Animal,Filamin/ABP280 repeat,847,Yes,NP_001265117.1,39.3,1.1e-31
+XP_026771637.1,Pan h 3,Pangasianodon hypophthalmus,Animal,Fructose-bisphosphate aldolase,364,No,XP_005251787.1,25.8,2.2e-59
+CBL79147.1,Salmo Sal s 3 aldolase,Salmo salar (Salmon),Animal,Fructose-bisphosphate aldolase class-I,363,Yes,NP_000026.2,66.8,0.0e+00
+CAX62602.1,Thunnus Thu a 3 aldolase,Thunnus albacares (Yellowfin tuna),Animal,Fructose-bisphosphate aldolase class-I,364,Yes,NP_001230106.1,74.5,0.0e+00
+P86979.1,Thunnus Thu a 3 aldolase,Thunnus albacares (Yellowfin tuna),Animal,Fructose-bisphosphate aldolase class-I,37,Yes,NP_001302461.1,54.7,6.6e-33
+ACH70901.1,Salmo Sal s 3 aldolase,Salmo salar (Salmon),Animal,Fructose-bisphosphate aldolase class-I,363,Yes,—,,
+B3EWP3.1,Arachis Ara h 12,Arachis hypogaea (Peanut),Plant,Gamma-thionin family,71,No,—,,
+B3EWP4.1,Arachis Ara h 13 defensin,Arachis hypogaea (Peanut),Plant,Gamma-thionin family-Defensin,79,No,—,,
+C0HJZ1.1,Arachis Ara h 13 defensin,Arachis hypogaea (Peanut),Plant,Gamma-thionin family-Defensin,72,No,—,,
+P86888.1,Prunus Pru p 7 Pru m 7 Peamaclein,Prunus persica (Peach),Plant,Gibberellin regulated protein,63,Yes,—,,
+XP_006472264.1,Citrus sinensis Cit s 7,Citrus sinensis (Navel orange),Plant,Gibberellin regulated protein,88,Yes,—,,
+XP_021820299.1,Prunus avium Pru av 7.01 Gibberellin,Prunus avium (Cherry),Plant,Gibberellin regulated protein,88,No,—,,
+XP_026782131.1,Pan h 13,Pangasianodon hypophthalmus,Animal,Glyceraldehyde 3-phosphate dehydrogenase,333,No,NP_001265119.1,50.6,2.3e-67
+ADH10372.1,Coffea Cof a 1,Coffea arabica (Coffee),Plant,Glycoside hydrolase family 17,263,No,—,,
+P29022.1,Zea mays Zea m 8,Zea mays (Corn),Plant,Glycoside hydrolase family 19,280,No,—,,
+6GER_A,Triticum Tri a 17,Triticum aestivum (Wheat),Plant,Glycosyl hydrolase family 14,509,Yes,—,,
+AAB82772.2,"Musa acuminata Mus a 5 Endo-Beta-1,3-Glucanase",Musa acuminata AAA Group (Banana),Plant,Glycosyl hydrolase family 17,340,Yes,—,,
+G1UH28.1,Punica chitinase putative Put g 14,Punica granatum (Pomegranate),Plant,Glycosyl hydrolase family 17,299,No,—,,
+AAX40948.1,Ziziphus Ziz m 1,Ziziphus mauritiana (Chinese-date),Plant,Glycosyl hydrolases family 18,330,Yes,—,,
+ACV85695.1,Cari p 1.0101 endo polygalacturonase,Carica papaya (Papaya),Plant,Glycosyl hydrolases family 28,494,Yes,—,,
+BAB71741.1,Oryza Glyoxalase I,Oryza sativa (japonica cultivar-group) (Rice),Plant,Glyoxalase,291,No,NP_001353176.1,27.6,3.9e-20
+Q948T6.2,Oryza Glyoxalase I,Oryza sativa (Rice),Plant,Glyoxalase,291,No,NP_060867.2,27.5,2.5e-28
+Q945K2.1,Pru du 10,Prunus dulcis (Almond),Plant,GMC oxidoreduc,563,No,NP_001091091.1,48.5,2.9e-28
+AGT20779.1,Fenneropenaeus hemocyanin banana shrimp,Fenneropenaeus merguiensis (Banana Prawn),Animal,Hemocynanin,661,No,—,,
+CAA31396.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,648,Yes,NP_001091999.1,21.2,1.2e-16
+CAA26847.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,660,Yes,NP_115619.4,21.7,1.9e-08
+CAA43361.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,705,Yes,NP_115619.4,21.4,1.0e-04
+AAB02788.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,815,Yes,NP_115619.4,23.1,3.9e-08
+AAZ23584.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,795,Yes,—,,
+CAA24933.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,101,Yes,—,,
+CAA24934.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,39,Yes,—,,
+CAA27052.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,838,Yes,—,,
+CAA31395.4,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,848,Yes,—,,
+CAA43331.1,Triticum Tri a 26,Triticum aestivum (Wheat),Plant,HMW glutenin,830,Yes,—,,
+ACJ04729.1,Gallus Gal d 1,Gallus gallus (chicken),Animal,Kazal-type serine protease inhibitor domai,210,Yes,NP_001121170.1,22.4,5.0e-06
+P01005.1,Gallus Gal d 1,Gallus gallus (chicken),Animal,Kazal-type serine protease inhibitor domai,210,Yes,XP_047272619.1,22.6,8.4e-06
+4X9U_B,Actinidia Act d 5 kiwellin,Actinidia deliciosa (Kiwi),Plant,kiwellin,189,Yes,—,,
+AGC39164.1,Actinidia Act d 5 kiwellin,Actinidia deliciosa (Kiwi),Plant,kiwellin,213,Yes,—,,
+AGC39165.1,Actinidia Act d 5 kiwellin,Actinidia deliciosa (Kiwi),Plant,kiwellin,213,Yes,—,,
+AGC39166.1,Actinidia Act d 5 kiwellin,Actinidia deliciosa (Kiwi),Plant,kiwellin,213,Yes,—,,
+AGC39167.1,Actinidia Act d 5 kiwellin,Actinidia deliciosa (Kiwi),Plant,kiwellin,213,Yes,—,,
+AGC39168.1,Actinidia Act c 5 kiwellin,Actinidia chinensis (Kiwi),Plant,kiwellin,213,No,—,,
+AGC39169.1,Actinidia eriantha kiwellin,Actinidia eriantha (Climber (plant)),Plant,kiwellin,213,No,—,,
+AGC39170.1,Actinidia eriantha kiwellin,Actinidia eriantha (Climber (plant)),Plant,kiwellin,213,No,—,,
+AGC39171.1,Actinidia eriantha kiwellin,Actinidia eriantha (Climber (plant)),Plant,kiwellin,213,No,—,,
+AGC39172.1,Actinidia arguta kiwellin,Actinidia arguta (Hardy Kiwi),Plant,kiwellin,213,No,—,,
+AGC39173.1,Actinidia arguta kiwellin,Actinidia arguta (Hardy Kiwi),Plant,kiwellin,213,No,—,,
+AGC39174.1,Actinidia arguta kiwellin,Actinidia arguta (Hardy Kiwi),Plant,kiwellin,213,No,—,,
+P84527.1,Actinidia Act d 5 kiwellin,Actinidia deliciosa (Kiwi),Plant,kiwellin,189,Yes,—,,
+BAH59276.1,Protortonia,Protortonia cacti (Arthropod),Animal,lactate/malate dehydrogenase,335,No,NP_001193889.1,24.9,3.8e-16
+XP_026774991.1,Pangasianodon Pan h 10,Pangasianodon hypophthalmus,Animal,lactate/malate dehydrogenase,333,No,NP_005176.1,27.8,1.7e-06
+NP_851341.1,Bos lactotransferrin,Bos taurus (Bovine),Animal,lactotransferrin,708,No,NP_201573.1,38.2,5.7e-53
+ABI32184.1,Fagopyrum Legumin-like protein,Fagopyrum tataricum (Buckwheat),Plant,legumin,515,No,—,,
+ABW86978.1,Carya Car i 4 11s legumin,Carya illinoinensis (Pecan),Plant,legumin,505,No,—,,
+ABW86979.1,Carya Car i 4 11s legumin,Carya illinoinensis (Pecan),Plant,legumin,505,No,—,,
+O23878.1,Fagopyrum Legumin-like protein,Fagopyrum esculentum (Buckwheat),Plant,legumin,565,No,—,,
+O23880.1,Fagopyrum Legumin-like protein,Fagopyrum esculentum (Buckwheat),Plant,legumin,504,No,—,,
+Q9XFM4.1,Fagopyrum Legumin-like protein,Fagopyrum esculentum (Buckwheat),Plant,legumin,538,No,—,,
+A0A2J6KL39.1,Lactuca sativa LTP,Lactuca sativa (Garden lettuce),Plant,LTP,117,Yes,—,,
+AAB42069.1,Solanum Sola l 3 LTP (Lyc e 3),Solanum lycopersicum (Lycopersicon esculentum) (,Plant,LTP,114,Yes,—,,
+ABU95411.1,Sinapis Sin a 3.01 LTP,Sinapis alba (White mustard),Plant,LTP,92,No,—,,
+ABX56711.1,Arachis Ara h 9 LTP isoallergens,Arachis hypogaea (Peanut),Plant,LTP,116,No,—,,
+ABX75045.1,Arachis Ara h 9 LTP isoallergens,Arachis hypogaea (Peanut),Plant,LTP,92,No,—,,
+B3A0N2.1,Lycium ltp,Lycium barbarum (wolfberry),Plant,LTP,51,No,—,,
+CAA42832.1,Hordeum LTP 1,Hordeum vulgare (Barley),Plant,LTP,134,No,—,,
+CAH03799.1,Citrus LTP Cit s 3/Cit l 3,Citrus sinensis (Navel orange),Plant,LTP,91,Yes,—,,
+P24296.2,Triticum Tri a 14 LTP_amylase inhibitor,Triticum aestivum (Wheat),Plant,LTP,113,Yes,—,,
+P33556.1,Vitis Vit v 1 LTP,Vitis sp. (Grape),Plant,LTP,38,No,—,,
+P80274.1,Vitis Vit v 1 LTP,Vitis sp. (Grape),Plant,LTP,37,No,—,,
+P84160.1,Citrus LTP Cit s 3/Cit l 3,Citrus limon (Lemon),Plant,LTP,20,Yes,—,,
+P84161.1,Citrus LTP Cit s 3/Cit l 3,Citrus sinensis (Navel orange),Plant,LTP,20,Yes,—,,
+P85204.1,Actinidia Act c 10 LTP,Actinidia chinensis (Kiwi),Plant,LTP,15,Yes,—,,
+P85206.1,Actinidia Act d 10 LTP,Actinidia deliciosa (Kiwi),Plant,LTP,92,Yes,—,,
+P85894.1,Morus Mor n 3 mulberry LTP,Morus nigra (Black mulberry),Plant,LTP,91,Yes,—,,
+P86137.2,Actinidia Act d 10 LTP,Actinidia deliciosa (Kiwi),Plant,LTP,92,Yes,—,,
+P86809.1,Apium graveolens Api g 6 LTP 2,Apium graveolens Rapaceum Group (Celery),Plant,LTP,67,No,—,,
+P11376.1,Equus asinus / caballas Equ a 6 Equ c 6 lysozyme,Equus caballus (Horse),Animal,lysozyme,129,Yes,NP_001304155.1,37.6,2.2e-24
+XP_014705584.1,Equus asinus / caballas Equ a 6 Equ c 6 lysozyme,Equus asinus,Animal,lysozyme,148,Yes,XP_011529155.1,33.6,4.9e-52
+ABR29644.1,Pistacia Pis v 4,Pistacia vera (pistachio),Plant,Manganese/iron superoxide dismutase,230,No,NP_001019637.1,44.7,1.1e-49
+AGL34967.1,Coffea Cof a 2,Coffea arabica (Coffee),Plant,Metallothionein,80,No,—,,
+P85524.1,Actinidia Act d 11 Kirola MLP,Actinidia deliciosa (Kiwi),Plant,MLP,150,No,—,,
+AFP95338.1,Pro c 5 myosin,Procambarus clarkii (red swamp crayfish),Animal,myosin,153,No,NP_005176.1,30.4,5.5e-17
+ACR43477.1,Crangon Cra c 5 myosin light chain,Crangon crangon (Shrimp),Animal,myosin light chain,153,No,NP_005176.1,31.3,1.0e-16
+AAC24001.1,Pyrus Pyr c 5,Pyrus communis (Pear),Plant,NmrA-like domain,308,Yes,—,,
+AEY79727.1,Daucus Dau c 5 isoflavone reductase,Daucus carota (Carrot),Plant,NmrA-like family-isoflavone reductase,306,No,—,,
+AEY79728.1,Daucus Dau c 5 isoflavone reductase,Daucus carota (Carrot),Plant,NmrA-like family-isoflavone reductase,306,No,—,,
+AAD42942.1,Sesamum Ses i 5 oleosin,Sesamum indicum (Sesame),Plant,Oleosin,145,No,—,,
+AAG23840.1,Sesamum Ses i 4 oleosin,Sesamum indicum (Sesame),Plant,Oleosin,166,No,—,,
+AAO65960.1,Corylus Cor a 13 Oleosin,Corylus avellana (European hazelnut),Plant,Oleosin,140,No,—,,
+AAO67349.2,Corylus Cor a 12,Corylus avellana (European hazelnut),Plant,Oleosin,159,Yes,—,,
+AAU21499.2,Arachis hypogaea Ara h 10,Arachis hypogaea (Peanut),Plant,Oleosin,169,No,—,,
+AAU21500.1,Arachis hypogaea Ara h 10,Arachis hypogaea (Peanut),Plant,Oleosin,150,No,—,,
+AAU21501.1,Arachis hypogaea oleosin Ara h 15,Arachis hypogaea (Peanut),Plant,Oleosin,166,Yes,—,,
+AAZ20276.1,Arachis hypogaea Ara h 11,Arachis hypogaea (Peanut),Plant,Oleosin,137,No,—,,
+ACH85188.1,Sesamum Ses i 5 oleosin,Sesamum indicum (Sesame),Plant,Oleosin,145,No,—,,
+Q45W86,Arachis hypogaea Ara h 11,Arachis hypogaea (Peanut),Plant,Oleosin,137,No,—,,
+Q9NJA9.1,Anisakis Ani s 2 paramyosin,Anisakis simplex (Parasitic fish worm),Animal,Paramyosin,869,No,XP_016870577.1,47.7,3.4e-61
+BAJ61596.1,Haliotis paramyosin,Haliotis discus discus (Disk abalone),Animal,Paramyosin,860,No,XP_054234985.1,25.9,6.4e-09
+AAF75225.1,Anisakis Ani s 2 paramyosin,Anisakis simplex (Parasitic fish worm),Animal,Paramyosin,473,No,XP_054234998.1,26.7,2.9e-08
+CAC83658.1,Cyprinus Cyp c 1 Parvalbumin,Cyprinus carpio (Carp),Animal,parvalbumin,109,Yes,NP_001091091.1,46.8,1.0e-31
+CAQ68366.1,Sardinops Sar sa 1 parvalbumin,Sardinops sagax (South American pilchard),Animal,parvalbumin,109,No,NP_001091091.1,46.7,2.3e-30
+P86765.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius merluccius (European hake),Animal,parvalbumin,108,No,NP_001091091.1,48.1,1.4e-28
+P86774.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius productus (North Pacific hake),Animal,parvalbumin,108,No,NP_001091091.1,39.8,6.0e-13
+P86739.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Macruronus magellanicus (Patagonian Grenadier),Animal,parvalbumin,98,No,NP_001302461.1,48.1,1.1e-21
+CAX32963.1,Gallus parvalbumin Gal d 8,Gallus gallus (chicken),Animal,parvalbumin,110,Yes,NP_001341568.1,36.0,7.9e-14
+5ZGM_A,Mustelus griseus parvalbumin,Mustelus griseus,Animal,parvalbumin,110,No,NP_001341568.1,31.5,8.2e-12
+5ZH6_A,Mustelus griseus parvalbumin,Mustelus griseus,Animal,parvalbumin,107,No,NP_001341568.1,34.8,1.2e-06
+P86757.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius capensis (Shallow-water cape hake),Animal,parvalbumin,108,No,NP_001353724.1,34.7,8.0e-03
+P86771.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius polli (Benguela hake),Animal,parvalbumin,108,No,NP_001353724.1,30.8,3.7e-02
+CAX32967.1,Salvelinus parvalbumin,Salvelinus fontinalis (Brook trout),Animal,parvalbumin,108,No,NP_001378920.1,51.5,1.2e-27
+BAK09232.1,Evynnis parvalbumin,Evynnis japonica (Crimson seabream),Animal,parvalbumin,108,No,NP_004057.1,31.7,2.5e-02
+P86761.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius gayi (Southern Pacific hake),Animal,parvalbumin,108,No,NP_004920.1,40.3,1.5e-04
+CAC83659.1,Cyprinus Cyp c 1 Parvalbumin,Cyprinus carpio (Carp),Animal,parvalbumin,109,Yes,NP_005176.1,27.9,1.8e-05
+CAR48256.1,Xiphias Xip g 1 beta-parvalbumin,Xiphias gladius (Swordfish),Animal,parvalbumin,109,No,NP_005176.1,30.0,1.9e-09
+CAX32965.1,Scomber Parvalbumin Sco s 1,Scomber scombrus (Atlantic mackerel),Animal,parvalbumin,109,No,NP_005176.1,28.4,3.8e-07
+P02620.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius merluccius (European hake),Animal,parvalbumin,108,No,NP_005176.1,28.4,1.7e-04
+P86740.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Macruronus magellanicus (Patagonian Grenadier),Animal,parvalbumin,74,No,NP_005176.1,29.7,8.4e-04
+P86741.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Macruronus magellanicus (Patagonian Grenadier),Animal,parvalbumin,108,No,NP_005176.1,32.9,8.7e-07
+P86742.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Macruronus novaezelandiae (Blue hake),Animal,parvalbumin,83,No,NP_005176.1,25.3,1.0e-03
+P86745.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius australis australis (southern hake),Animal,parvalbumin,108,No,NP_005176.1,27.9,1.0e-03
+P86749.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius australis polylepis (Southern hake),Animal,parvalbumin,108,No,NP_005176.1,28.4,1.8e-04
+P86750.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius australis polylepis (Southern hake),Animal,parvalbumin,108,No,NP_005176.1,31.8,1.8e-06
+P86752.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius bilinearis (Silver hake),Animal,parvalbumin,108,No,NP_005176.1,26.1,7.9e-04
+P86753.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius bilinearis (Silver hake),Animal,parvalbumin,108,No,NP_005176.1,37.7,1.3e-06
+P86760.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius gayi (Southern Pacific hake),Animal,parvalbumin,91,No,NP_005176.1,30.7,1.1e-07
+P86769.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius paradoxus (Deep-water cape hake),Animal,parvalbumin,108,No,NP_005176.1,28.4,1.7e-04
+P86770.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius paradoxus (Deep-water cape hake),Animal,parvalbumin,95,No,NP_005176.1,29.5,4.4e-07
+P86772.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius polli (Benguela hake),Animal,parvalbumin,69,No,NP_005176.1,32.6,7.3e-07
+P86775.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius productus (North Pacific hake),Animal,parvalbumin,108,No,NP_005176.1,28.4,1.2e-04
+ANW10058.1,Rastrelliger Ras k 1 parvalbumin,Rastrelliger kanagurta,Animal,parvalbumin,109,No,NP_005176.1,29.2,3.0e-07
+BAC66618.1,Scomber Parvalbumin Sco s 1,Scomber japonicus (Chub mackerel),Animal,parvalbumin,109,No,NP_005176.1,30.7,2.7e-08
+BAE46763.1,Trachurus parvalbumin,Trachurus japonicus (Japanese horse mackerel),Animal,parvalbumin,107,No,NP_005176.1,30.9,2.1e-06
+BAK09233.1,Evynnis parvalbumin,Evynnis japonica (Crimson seabream),Animal,parvalbumin,109,No,NP_005176.1,28.7,7.7e-08
+P86768.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius paradoxus (Deep-water cape hake),Animal,parvalbumin,108,No,NP_006179.2,47.1,3.9e-28
+AAK63088.1,Theragra parvalbumin,Theragra chalcogramma (Alaska pollock),Animal,parvalbumin,109,Yes,XP_047276867.1,30.3,1.1e-06
+CAX32966.1,Salvelinus parvalbumin,Salvelinus fontinalis (Brook trout),Animal,parvalbumin,109,No,XP_054206242.1,28.8,2.7e-02
+AAK63089.1,Theragra parvalbumin,Theragra chalcogramma (Alaska pollock),Animal,parvalbumin,109,Yes,—,,
+P86754.1,Merluccius sp. Macruronus sp. Parvalbumin Hake,Merluccius bilinearis (Silver hake),Animal,parvalbumin,94,No,—,,
+QCY53440.1,Cten i 1 parvalbumin,Ctenopharyngodon idella,Animal,parvalbumin,109,No,—,,
+CAA27571.1,Solanum Sola t 1,Solanum tuberosum (Potato),Plant,Patatin-like phospholipase,386,Yes,NP_001242939.1,25.1,6.2e-04
+CAA27588.1,Solanum Sola t 1,Solanum tuberosum (Potato),Plant,Patatin-like phospholipase,386,Yes,NP_001242939.1,24.3,6.0e-03
+CAA31575.1,Solanum Sola t 1,Solanum tuberosum (Potato),Plant,Patatin-like phospholipase,386,Yes,XP_011514576.1,25.0,6.0e-03
+AAA33819.1,Solanum Sola t 1,Solanum tuberosum (Potato),Plant,Patatin-like phospholipase,386,Yes,XP_011514576.1,23.5,1.0e-03
+P15476.2,Solanum Sola t 1,Solanum tuberosum (Potato),Plant,Patatin-like phospholipase,386,Yes,—,,
+XP_026782721.1,Pangasianodon hypothalmus Pan h 11,Pangasianodon hypophthalmus,Animal,Phosphoglucose isomerase,553,No,NP_055179.1,70.0,7.1e-172
+AAR92223.1,Actinidia Act d 4 Phytocystatin,Actinidia deliciosa (Kiwi),Plant,Phytocystatin,116,Yes,—,,
+CAA65313.1,Triticum Tri a 37 alpha purothionin,Triticum aestivum (Wheat),Plant,Plant Thionin,137,No,—,,
+XP_007199020.1,Pru p 9 peach a PR-1 protein Cys rich,Prunus persica (Peach),Plant,PR,161,Yes,NP_001882.1,55.5,2.3e-32
+P83834.1,Cucumis Cuc m 3,Cucumis melo (Muskmelon),Plant,PR-1 like,41,Yes,—,,
+AHC08073.1,Solanum Sola l 4 PR-10 (Lyc e 4),Solanum lycopersicum (Lycopersicon esculentum) (,Plant,PR-10,160,No,—,,
+AHC08074.1,Solanum Sola l 4 PR-10 (Lyc e 4),Solanum lycopersicum (Lycopersicon esculentum) (,Plant,PR-10,160,No,—,,
+CAA75803.1,Solanum Sola l 4 PR-10 (Lyc e 4),Solanum lycopersicum (Lycopersicon esculentum) (,Plant,PR-10,178,No,—,,
+CAM31908.1,Actinidia Act c 8 Act d 8 PR-10,Actinidia chinensis (Kiwi),Plant,PR-10,159,No,—,,
+CAM31909.1,Actinidia Act c 8 Act d 8 PR-10,Actinidia deliciosa (Kiwi),Plant,PR-10,157,No,—,,
+A4KA39.1,Corylus Cor a 2 profilins,Corylus avellana (European hazelnut),Plant,Profilin,133,No,—,,
+A4KA40.1,Corylus Cor a 2 profilins,Corylus avellana (European hazelnut),Plant,Profilin,133,No,—,,
+A4KA41.1,Corylus Cor a 2 profilins,Corylus avellana (European hazelnut),Plant,Profilin,131,No,—,,
+A4KA43.1,Corylus Cor a 2 profilins,Corylus avellana (European hazelnut),Plant,Profilin,131,No,—,,
+A4KA44.1,Corylus Cor a 2 profilins,Corylus avellana (European hazelnut),Plant,Profilin,133,No,—,,
+A4KA45.1,Corylus Cor a 2 profilins,Corylus avellana (European hazelnut),Plant,Profilin,133,No,—,,
+AAB86960.1,Zea Zea m 12 profilin,Zea mays (Corn),Plant,Profilin,131,No,—,,
+AAD29409.1,Apium Api g 4,Apium graveolens (Celery),Plant,Profilin,134,Yes,—,,
+AAD29410.1,Pyrus Pyr c 4,Pyrus communis (Pear),Plant,Profilin,131,Yes,—,,
+AAD29411.1,Prunus Pru 4 Profilin peach cherry almond,Prunus avium (Cherry),Plant,Profilin,131,Yes,—,,
+AAD29412.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+AAD29413.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+AAD29414.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+AAD55587.1,Arachis Ara h 5,Arachis hypogaea (Peanut),Plant,Profilin,131,Yes,—,,
+AAD56337.1,Arachis Ara h 6,Arachis hypogaea (Peanut),Plant,Profilin,129,Yes,—,,
+AAK54834.1,Musa acuminata Mus a 1 profilin banana,Musa acuminata (Banana),Plant,Profilin,131,No,—,,
+AAL07320.1,Litchi Lit c 1,Litchi chinensis (Lychee nut),Plant,Profilin,131,No,—,,
+AAL29690.1,Solanum Sola l 1 profilin (Lyc e 1),Solanum lycopersicum (Lycopersicon esculentum) (,Plant,Profilin,131,Yes,—,,
+AAL76933.1,Daucus Dau c 4,Daucus carota (Carrot),Plant,Profilin,134,Yes,—,,
+AAL91662.1,Prunus Pru 4 Profilin peach cherry almond,Prunus dulcis (Almond),Plant,Profilin,131,Yes,—,,
+AAP13533.2,Cucumis Cuc m 2,Cucumis melo var. reticulatus (Netted muskmelon),Plant,Profilin,131,Yes,—,,
+AAU43733.1,Citrullus lanatus Citr l 2,Citrullus lanatus,Plant,Profilin,131,Yes,—,,
+AAW69549.1,Cucumis Cuc m 2,Cucumis melo (Muskmelon),Plant,Profilin,131,Yes,—,,
+AAX19854.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+AAX19856.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+AAX19858.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+AAX19860.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+ABA81885.1,Solanum profilin-like,Solanum tuberosum (Potato),Plant,Profilin,131,No,—,,
+ABB16985.1,Solanum profilin-like,Solanum tuberosum (Potato),Plant,Profilin,131,No,—,,
+ABC02750.1,Litchi Lit c 1,Litchi chinensis (Lychee nut),Plant,Profilin,131,No,—,,
+ABG81312.1,Zea Zea m 12 profilin,Zea mays (Corn),Plant,Profilin,131,No,—,,
+ABG81313.1,Zea Zea m 12 profilin,Zea mays (Corn),Plant,Profilin,131,No,—,,
+ABG81314.1,Zea Zea m 12 profilin,Zea mays (Corn),Plant,Profilin,131,No,—,,
+ABG81315.1,Zea Zea m 12 profilin,Zea mays (Corn),Plant,Profilin,131,No,—,,
+ABG81316.1,Zea Zea m 12 profilin,Zea mays (Corn),Plant,Profilin,131,No,—,,
+ABG81317.1,Zea Zea m 12 profilin,Zea mays (Corn),Plant,Profilin,131,No,—,,
+ABG81318.1,Zea Zea m 12 profilin,Zea mays (Corn),Plant,Profilin,130,No,—,,
+ABU95412.1,Sinapis Sin a 4.01 profilin,Sinapis alba (White mustard),Plant,Profilin,131,No,—,,
+ABU97472.1,Glycine Gly m 3,Glycine max (Soybean),Plant,Profilin,131,No,—,,
+ACE80972.1,Prunus Pru 4 Profilin peach cherry almond,Prunus dulcis x Prunus persica (Plant hybrid),Plant,Profilin,131,Yes,—,,
+ACE82291.1,Triticum Tri a 12,Triticum aestivum (Wheat),Plant,Profilin,131,No,—,,
+ADB96066.1,Arachis Ara h 5,Arachis hypogaea (Peanut),Plant,Profilin,131,Yes,—,,
+AGA84056.1,Arachis Ara h 5,Arachis hypogaea (Peanut),Plant,Profilin,131,Yes,—,,
+AVD53651.1,Jug r 7,Juglans regia (English walnut),Plant,Profilin,131,No,—,,
+C0HL99.1,"Actinidia Act d 9, profilin",Actinidia deliciosa (Kiwi),Plant,Profilin,109,No,—,,
+CAA11755.1,Glycine Gly m 3,Glycine max (Soybean),Plant,Profilin,131,No,—,,
+CAA11756.1,Glycine Gly m 3,Glycine max (Soybean),Plant,Profilin,131,No,—,,
+CAA61943.2,Triticum Tri a 12,Triticum aestivum (Wheat),Plant,Profilin,131,No,—,,
+CAA61944.2,Triticum Tri a 12,Triticum aestivum (Wheat),Plant,Profilin,131,No,—,,
+CAA61945.2,Triticum Tri a 12,Triticum aestivum (Wheat),Plant,Profilin,131,No,—,,
+CAD10376.1,Capsicum Cap a 2,Capsicum annuum (Bell pepper),Plant,Profilin,131,No,—,,
+CAD10377.1,Solanum Sola l 1 profilin (Lyc e 1),Solanum lycopersicum (Lycopersicon esculentum) (,Plant,Profilin,131,Yes,—,,
+CAD37201.1,Prunus Pru 4 Profilin peach cherry almond,Prunus persica (Peach),Plant,Profilin,131,Yes,—,,
+CAD37202.1,Prunus Pru 4 Profilin peach cherry almond,Prunus persica (Peach),Plant,Profilin,131,Yes,—,,
+CAD46559.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+CAD46560.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+CAD46561.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+CAD92666.1,Cucumis Cuc m 2,Cucumis melo (Muskmelon),Plant,Profilin,131,Yes,—,,
+CAI23765.1,Citrus Cit s 2,Citrus sinensis (Navel orange),Plant,Profilin,131,Yes,—,,
+CAK93713.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+CAK93753.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+CAK93757.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+CAQ57979.1,Triticum Tri a 12,Triticum aestivum (Wheat),Plant,Profilin,131,No,—,,
+CAT99617.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,131,Yes,—,,
+CAT99618.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,77,Yes,—,,
+CAT99619.1,Malus Mal d 4,Malus x domestica (Apple),Plant,Profilin,115,Yes,—,,
+Q94JN2.1,Ananas profilin Ana c 1,Ananas comosus (Pineapple),Plant,Profilin,131,No,—,,
+QEQ43417.1,Solanum melalongena Sola m 1,Solanum melongena (Eggplant),Plant,Profilin,159,Yes,—,,
+Q7Z1K3.1,Anisakis Ani s 1 protease inhibitor,Anisakis simplex (Parasitic fish worm),Animal,Protease Inhibitor,194,Yes,NP_000026.2,77.8,1.1e-10
+AGC60035.1,Anisakis Ani s 1 protease inhibitor,Anisakis simplex (Parasitic fish worm),Animal,Protease Inhibitor,163,Yes,NP_444514.1,37.0,6.0e-03
+AGC60036.1,Anisakis Ani s 1 protease inhibitor,Anisakis simplex (Parasitic fish worm),Animal,Protease Inhibitor,163,Yes,NP_444514.1,37.0,5.0e-03
+ABW17159.1,Arachis Ara h 7,Arachis hypogaea (Peanut),Plant,Protease inhibitor,164,No,—,,
+1W2Q_A,Arachis Ara h 6,Arachis hypogaea (Peanut),Plant,Protease inhibitor/seed storage/LTP family,127,Yes,—,,
+2N81_A,Pisum sativum Pis s 3,Pisum sativum (Pea),Plant,Protease inhibitor/seed storage/LTP family,95,No,—,,
+A0A158V755.1,Pisum sativum Pis s 3,Pisum sativum (Pea),Plant,Protease inhibitor/seed storage/LTP family,120,No,—,,
+A0A158V976.1,Pisum sativum Pis s 3,Pisum sativum (Pea),Plant,Protease inhibitor/seed storage/LTP family,119,No,—,,
+AAA33493.1,Zea Zea m 14,Zea mays (Corn),Plant,Protease inhibitor/seed storage/LTP family,120,No,—,,
+AAA33494.1,Zea Zea m 14,Zea mays (Corn),Plant,Protease inhibitor/seed storage/LTP family,99,No,—,,
+AAB41308.1,Jug r 1 Jug n 1,Juglans regia (English walnut),Plant,Protease inhibitor/seed storage/LTP family,139,Yes,—,,
+AAD42943.1,Sesamum Ses i 2,Sesamum indicum (Sesame),Plant,Protease inhibitor/seed storage/LTP family,148,No,—,,
+AAF26449.1,Prunus Pru 3,Prunus avium (Cherry),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+AAF26450.1,Malus Mal d 3,Malus x domestica (Apple),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+AAF26451.1,Pyrus LTP Pyr c 3 IUIS,Pyrus communis (Pear),Plant,Protease inhibitor/seed storage/LTP family,115,No,—,,
+AAK15088.1,Sesamum Ses i 1,Sesamum indicum (Sesame),Plant,Protease inhibitor/seed storage/LTP family,153,No,—,,
+AAK28533.1,Corylus Cor a 8,Corylus avellana (European hazelnut),Plant,Protease inhibitor/seed storage/LTP family,115,No,—,,
+AAK96887.1,Arachis Ara h 2,Arachis hypogaea (Peanut),Plant,Protease inhibitor/seed storage/LTP family,156,Yes,—,,
+AAL37561.1,Arachis Ara h 6,Arachis hypogaea (Peanut),Plant,Protease inhibitor/seed storage/LTP family,144,Yes,—,,
+AAL91665.1,Anacardium Ana o 3,Anacardium occidentale (Cashew),Plant,Protease inhibitor/seed storage/LTP family,138,Yes,—,,
+AAM54365.1,Jug r 1 Jug n 1,Juglans nigra (Black walnut),Plant,Protease inhibitor/seed storage/LTP family,161,Yes,—,,
+AAM78596.1,Arachis Ara h 2,Arachis hypogaea (Peanut),Plant,Protease inhibitor/seed storage/LTP family,169,Yes,—,,
+AAN77576.1,Arachis Ara h 2,Arachis hypogaea (Peanut),Plant,Protease inhibitor/seed storage/LTP family,172,Yes,—,,
+AAO32314.1,Carya Car i 1 Seed storage protein,Carya illinoinensis (Pecan),Plant,Protease inhibitor/seed storage/LTP family,143,No,—,,
+AAP47226.1,Hel a 3,Helianthus annuus (Sunflower),Plant,Protease inhibitor/seed storage/LTP family,116,No,—,,
+AAR22488.1,Malus Mal d 3,Malus x domestica (Apple),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+AAT80649.1,Malus Mal d 3,Malus x domestica (Apple),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+AAT80659.1,Malus Mal d 3,Malus x domestica (Apple),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+AAT80662.1,Malus Mal d 3,Malus x domestica (Apple),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+AAT80664.1,Malus Mal d 3,Malus x domestica (Apple),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+AAT80665.1,Malus Mal d 3,Malus x domestica (Apple),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+AAV40850.1,Prunus Pru 3,Prunus persica (Peach),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+AAX35807.1,Lens Len c 3,Lens culinaris (Lentil),Plant,Protease inhibitor/seed storage/LTP family,118,No,—,,
+AAY83341.1,Fragaria Fra a 3,Fragaria x ananassa (Strawberry),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+AAY83342.1,Fragaria Fra a 3,Fragaria x ananassa (Strawberry),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+AAY83345.1,Fragaria Fra a 3,Fragaria x ananassa (Strawberry),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+ABG54494.1,Rubus Rub i 3,Rubus idaeus (raspberry),Plant,Protease inhibitor/seed storage/LTP family,117,No,—,,
+ABO93594.1,Fagopyrum BW 8 kDa protein,Fagopyrum tataricum (Buckwheat),Plant,Protease inhibitor/seed storage/LTP family,133,No,—,,
+ABV55106.1,Anisakis Ani s 9,Anisakis simplex (Parasitic fish worm),Animal,Protease inhibitor/seed storage/LTP family,147,No,—,,
+ACG59281.1,Triticum aestivum Tri a 40,Triticum aestivum (Wheat),Plant,Protease inhibitor/seed storage/LTP family,143,No,—,,
+ACI41244.1,Sesamum Ses i 1,Sesamum indicum (Sesame),Plant,Protease inhibitor/seed storage/LTP family,153,No,—,,
+ACI47547.1,Jug r 3,Juglans regia (English walnut),Plant,Protease inhibitor/seed storage/LTP family,119,No,—,,
+ACN62248.1,Arachis Ara h 2,Arachis hypogaea (Peanut),Plant,Protease inhibitor/seed storage/LTP family,158,Yes,—,,
+ACV04796.1,Apium Api g 2,Apium graveolens (Celery),Plant,Protease inhibitor/seed storage/LTP family,118,Yes,—,,
+ADC80502.1,Phaseolus Pha v 3,Phaseolus vulgaris (Kidney bean),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+ADC80503.1,Phaseolus Pha v 3,Phaseolus vulgaris (Kidney bean),Plant,Protease inhibitor/seed storage/LTP family,118,Yes,—,,
+ADR66939.1,Prunus Pru 3,Prunus persica (Peach),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+ADR66943.1,Prunus Pru 3,Prunus avium (Cherry),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+ADR66944.1,Prunus Pru 3,Prunus avium (Cherry),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+ADR66945.1,Prunus Pru 3,Prunus armeniaca (Apricot),Plant,Protease inhibitor/seed storage/LTP family,119,Yes,—,,
+ADR66946.1,Prunus Pru 3,Prunus armeniaca (Apricot),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+ADR66947.1,Prunus Pru 3,Prunus armeniaca (Apricot),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+ADR66948.1,Prunus Pru 3,Prunus armeniaca (Apricot),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+ADW27428.1,Fagopyrum Fag e 2 Fag t 2,Fagopyrum tataricum (Buckwheat),Plant,Protease inhibitor/seed storage/LTP family,149,No,—,,
+AET05730.1,Pyrus LTP Pyr c 3 IUIS,Pyrus communis (Pear),Plant,Protease inhibitor/seed storage/LTP family,94,No,—,,
+AET05732.1,Pyrus LTP Pyr c 3 IUIS,Pyrus communis (Pear),Plant,Protease inhibitor/seed storage/LTP family,94,No,—,,
+AET05733.1,Pyrus LTP Pyr c 3 IUIS,Pyrus communis (Pear),Plant,Protease inhibitor/seed storage/LTP family,94,No,—,,
+AGW21344.1,Prunus Pru 3,Prunus persica (Peach),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+AHB19225.1,Punica Pun g 1,Punica granatum (Pomegranate),Plant,Protease inhibitor/seed storage/LTP family,120,No,—,,
+AHB19226.1,Punica Pun g 1,Punica granatum (Pomegranate),Plant,Protease inhibitor/seed storage/LTP family,120,No,—,,
+AHB19227.1,Punica Pun g 1,Punica granatum (Pomegranate),Plant,Protease inhibitor/seed storage/LTP family,120,No,—,,
+AJG44053.1,Pisum sativum Pis s 3,Pisum sativum (Pea),Plant,Protease inhibitor/seed storage/LTP family,120,No,—,,
+CAA34709.1,Triticum aestivum Tri a 40,Triticum turgidum subsp. durum (Wheat),Plant,Protease inhibitor/seed storage/LTP family,143,No,—,,
+CAA38097.1,Ricinus Ric c 1,Ricinus communis (Castor bean),Plant,Protease inhibitor/seed storage/LTP family,258,Yes,—,,
+CAA45085.1,Hordeum Hor v 15,Hordeum vulgare subsp. vulgare (Barley),Plant,Protease inhibitor/seed storage/LTP family,146,Yes,—,,
+CAA62908.1,Sinapis Sin a 1.01,Sinapis alba (White mustard),Plant,Protease inhibitor/seed storage/LTP family,145,Yes,—,,
+CAA62909.1,Sinapis Sin a 1.01,Sinapis alba (White mustard),Plant,Protease inhibitor/seed storage/LTP family,145,Yes,—,,
+CAA62910.1,Sinapis Sin a 1.01,Sinapis alba (White mustard),Plant,Protease inhibitor/seed storage/LTP family,145,Yes,—,,
+CAA62911.1,Sinapis Sin a 1.01,Sinapis alba (White mustard),Plant,Protease inhibitor/seed storage/LTP family,145,Yes,—,,
+CAA62912.1,Sinapis Sin a 1.01,Sinapis alba (White mustard),Plant,Protease inhibitor/seed storage/LTP family,145,Yes,—,,
+CAC86258.1,Fragaria Fra a 3,Fragaria x ananassa (Strawberry),Plant,Protease inhibitor/seed storage/LTP family,117,Yes,—,,
+CAH69206.1,Triticum Tri tu 14,Triticum aestivum (Wheat),Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+CAI84642.1,Triticum Tri a 28,Triticum aestivum (Wheat),Plant,Protease inhibitor/seed storage/LTP family,119,No,—,,
+CAJ19705.1,Solanum Sola l 3 LTP (Lyc e 3),Solanum lycopersicum (Lycopersicon esculentum) (,Plant,Protease inhibitor/seed storage/LTP family,114,Yes,—,,
+CTQ87571.1,Pinus pinea Pin p 1 2S,Pinus pinea (Pine),Plant,Protease inhibitor/seed storage/LTP family,164,Yes,—,,
+NP_001306883.1,Solanum lycopersicum Sola l 6,Solanum lycopersicum (Lycopersicon esculentum) (,Plant,Protease inhibitor/seed storage/LTP family,96,Yes,—,,
+P04403.2,Bertholletia Ber e 1,Bertholletia excelsa (Brazil nut),Plant,Protease inhibitor/seed storage/LTP family,146,Yes,—,,
+P15322.2,Sinapis Sin a 1.01,Sinapis alba (White mustard),Plant,Protease inhibitor/seed storage/LTP family,145,Yes,—,,
+P23110.1,Hel a 6,Helianthus annuus (Sunflower),Plant,Protease inhibitor/seed storage/LTP family,141,No,—,,
+P80208.1,Bra n 1,Brassica napus (Rape),Plant,Protease inhibitor/seed storage/LTP family,125,No,—,,
+P80273.2,Vitis Lipid transfer protein P3,Vitis sp. (Grape),Plant,Protease inhibitor/seed storage/LTP family,91,No,—,,
+P81402.1,Prunus Pru 3,Prunus persica (Peach),Plant,Protease inhibitor/seed storage/LTP family,91,Yes,—,,
+P82534.1,Prunus Pru 3,Prunus domestica (Plum),Plant,Protease inhibitor/seed storage/LTP family,91,Yes,—,,
+Q39649.1,Cuc ma 5,Cucurbita maxima,Plant,Protease inhibitor/seed storage/LTP family,141,No,—,,
+Q647G9.1,Arachis Ara h 6,Arachis hypogaea (Peanut),Plant,Protease inhibitor/seed storage/LTP family,145,Yes,—,,
+XP_004229753.1,Solanum lycopersicum Sola l 7,Solanum lycopersicum (Lycopersicon esculentum) (,Plant,Protease inhibitor/seed storage/LTP family,115,Yes,—,,
+AAB99797.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,157,No,—,,
+BAA01998.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,165,No,—,,
+BAA07712.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,157,No,—,,
+BAA07772.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,111,No,—,,
+BAC20657.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,157,No,—,,
+AAD09630.1,Glycine Gly m 8 2s albumin,Glycine max (Soybean),Plant,Protease inhibitor/seed storage/LTP family,155,No,—,,
+AAN86249.1,Brassica napus 2S albumin,Brassica napus (Rape),Plant,Protease inhibitor/seed storage/LTP family,109,No,—,,
+ABG73108.1,Pistacia Pis v 1 2S albumin,Pistacia vera (pistachio),Plant,Protease inhibitor/seed storage/LTP family,149,No,—,,
+ACO56333.1,Corylus Cor a 14 2S albumin,Corylus avellana (European hazelnut),Plant,Protease inhibitor/seed storage/LTP family,147,Yes,—,,
+CEJ95862.1,Pinus pinea albumin AAI,Pinus pinea (Pine),Plant,Protease inhibitor/seed storage/LTP family,110,No,—,,
+NP_001238443.1,Glycine Gly m 8 2s albumin,Glycine max (Soybean),Plant,Protease inhibitor/seed storage/LTP family,158,No,—,,
+P80207.1,Brassica Bra j 1 2S albumin,Brassica juncea (Mustard),Plant,Protease inhibitor/seed storage/LTP family,129,No,—,,
+BAA01996.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,157,No,—,,
+BAA07710.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,166,No,—,,
+BAA07711.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,160,No,—,,
+BAA07713.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,160,No,—,,
+BAA07773.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,109,No,—,,
+BAA07774.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,113,No,—,,
+BAC19997.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,160,No,—,,
+BAC20650.1,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,160,No,—,,
+Q01882.2,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,166,No,—,,
+Q01883.2,Oryza Trypsin alpha-amylase inhibitor,Oryza sativa (japonica cultivar-group) (Rice),Plant,Protease inhibitor/seed storage/LTP family,163,No,—,,
+XP_026775867.1,Pan h 9,Pangasianodon hypophthalmus,Animal,Pyruvate kinase,530,No,XP_047279783.1,38.7,1.8e-02
+CBG76811.1,Secale Sec c 5,Secale cereale (Rye),Plant,Ribonuclease,292,No,—,,
+CAI64396.1,Triticum serine carboxypeptidase II,Triticum aestivum (Wheat),Plant,serine carboxypeptidase II,260,No,NP_001161066.2,25.5,5.9e-10
+P08819.2,Triticum serine carboxypeptidase II,Triticum aestivum (Wheat),Plant,serine carboxypeptidase II,444,No,NP_067639.1,23.7,7.8e-19
+CAA23681.1,Gallus Gal d 2,Gallus gallus (chicken),Animal,Serpin (serine protease inhibitor) Serpin ,155,Yes,NP_001291390.1,24.3,2.4e-11
+P01012.2,Gallus Gal d 2,Gallus gallus (chicken),Animal,Serpin (serine protease inhibitor) Serpin ,386,Yes,NP_001316832.1,22.8,9.4e-25
+1JTI_A,Gallus Gal d 2,Gallus gallus (chicken),Animal,Serpin (serine protease inhibitor) Serpin ,385,Yes,NP_001316832.1,22.8,6.2e-25
+1UHG_D,Gallus Gal d 2,Gallus gallus (chicken),Animal,Serpin (serine protease inhibitor) Serpin ,385,Yes,NP_001316832.1,22.9,4.8e-24
+CAA23682.1,Gallus Gal d 2,Gallus gallus (chicken),Animal,Serpin (serine protease inhibitor) Serpin ,386,Yes,NP_001316832.1,22.8,1.2e-24
+AAA48944.1,Gallus Gal d 4,Gallus gallus (chicken),Animal,Serpin family,24,Yes,NP_001073369.1,43.5,1.3e-02
+CAA43098.1,Gallus Gal d 5,Gallus gallus (chicken),Animal,Serum albumin family,615,Yes,XP_006714240.1,22.7,4.6e-23
+CAA76847.1,Bos Bos d 6,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,607,Yes,NP_001191236.1,23.8,6.4e-35
+AAA51411.1,Bos Bos d 6,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,607,Yes,NP_001341646.2,21.8,7.1e-20
+NP_776719.1,Bos Bos d 12,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,190,Yes,NP_001381926.1,53.1,2.4e-49
+CAA32835.1,Bos Bos d 5,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,178,Yes,XP_011517050.1,33.8,9.1e-33
+P02754.3,Bos Bos d 5,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,178,Yes,XP_011517050.1,33.8,3.4e-32
+ACG59280.1,Bos Bos d 5,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,178,Yes,XP_011517050.1,33.8,1.3e-32
+CAA29664.1,Bos Bos d 4,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,142,Yes,XP_011517609.1,32.0,5.3e-12
+AAA30615.1,Bos Bos d 4,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,142,Yes,XP_011517609.1,31.1,1.9e-11
+AAA30433.1,Bos Bos d 12,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,190,Yes,XP_054204949.1,53.1,1.3e-43
+NP_776953.1,Bos Bos d 10,Bos taurus (Bovine),Animal,SERUM ALBUMIN-RELATED,222,Yes,—,,
+BAF43534.1,Anisakis Ani s 5 SXP/RAL-2 family protein,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,152,No,—,,
+BAF75681.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75704.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75705.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75706.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75707.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75708.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75709.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75710.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75711.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+BAF75712.1,Anisakis Ani s 8 SXP/RAL-2 family protein 2,Anisakis simplex (Parasitic fish worm),Animal,SXP/RAL-2,150,No,—,,
+P83335.1,Prunus persica Pru p 2 IUIS,Prunus persica (Peach),Plant,SXP/RAL-2 family protein,242,Yes,—,,
+1Z3Q_A,Musa Mus a 4,Musa acuminata (Banana),Plant,Thaumatin family,200,Yes,—,,
+AAB38064.1,Prunus Pru av 2,Prunus avium (Cherry),Plant,Thaumatin family,245,No,—,,
+AAC36740.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Thaumatin family,245,No,—,,
+AAX19848.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Thaumatin family,246,No,—,,
+AAX19851.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Thaumatin family,246,No,—,,
+ABQ42566.1,Actinidia Act d 2 thaumatin like protein,Actinidia deliciosa (Kiwi),Plant,Thaumatin family,201,Yes,—,,
+ACE80955.1,Prunus persica Pru p 2 IUIS,Prunus dulcis x Prunus persica (Plant hybrid),Plant,Thaumatin family,242,Yes,—,,
+ACE80956.1,Prunus persica Pru p 2 IUIS,Prunus dulcis x Prunus persica (Plant hybrid),Plant,Thaumatin family,246,Yes,—,,
+ACE80957.1,Prunus persica Pru p 2 IUIS,Prunus dulcis x Prunus persica (Plant hybrid),Plant,Thaumatin family,246,Yes,—,,
+ACE80958.1,Prunus persica Pru p 2 IUIS,Prunus dulcis x Prunus persica (Plant hybrid),Plant,Thaumatin family,246,Yes,—,,
+ACE80959.1,Prunus persica Pru p 2 IUIS,Prunus dulcis x Prunus persica (Plant hybrid),Plant,Thaumatin family,246,Yes,—,,
+ACE80974.1,Prunus persica Pru p 2 IUIS,Prunus dulcis (Almond),Plant,Thaumatin family,241,Yes,—,,
+AEV57471.1,Prunus persica Pru p 2 IUIS,Prunus persica (Peach),Plant,Thaumatin family,246,Yes,—,,
+AFM77001.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Thaumatin family,193,No,—,,
+AGC39176.1,Actinidia Act d 2 thaumatin like protein,Actinidia chinensis (Kiwi),Plant,Thaumatin family,225,Yes,—,,
+APG29330.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Thaumatin family,159,No,—,,
+CAC34055.2,Capsicum Cap a 1,Capsicum annuum (Bell pepper),Plant,Thaumatin family,246,No,—,,
+CAI38795.2,Actinidia Act d 2 thaumatin like protein,Actinidia deliciosa (Kiwi),Plant,Thaumatin family,225,Yes,—,,
+CAT99611.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Thaumatin family,158,No,—,,
+CAT99612.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Thaumatin family,158,No,—,,
+G5DC91.2,Manilkara Thaumatin like protein 1,Manilkara zapota (Sapodilla plum),Plant,Thaumatin family,207,No,—,,
+P27357.1,Triticum Thaumatin-like,Triticum aestivum (Wheat),Plant,Thaumatin family,173,No,—,,
+P83332.1,Prunus persica Pru p 2 IUIS,Prunus persica (Peach),Plant,Thaumatin family,246,Yes,—,,
+Q9FSG7.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Thaumatin family,246,No,—,,
+B3EWE5.3,Manilkara Thaumatin like protein 1,Manilkara zapota (Sapodilla plum),Plant,thaumatin like protein,9,No,—,,
+B3EWS0.1,Manilkara Thaumatin like protein 1,Manilkara zapota (Sapodilla plum),Plant,thaumatin like protein,12,No,—,,
+P83958.1,Actinidia Act d 2 thaumatin like protein,Actinidia chinensis (Kiwi),Plant,thaumatin like protein,20,Yes,—,,
+BAC76688.1,Triticum Tri a 27.0101 Thiol reductase,Triticum aestivum (Wheat),Plant,Thiol reductase,203,No,NP_006323.2,37.7,4.6e-31
+CAA26040.1,Gallus Gal d 3,Gallus gallus (chicken),Animal,Transferrin,705,Yes,NP_001186078.1,36.6,4.7e-53
+P02789.2,Gallus Gal d 3,Gallus gallus (chicken),Animal,Transferrin,705,Yes,NP_001186078.1,36.3,1.6e-52
+ACM09737.1,Salmon Sal s 8 Triosphosphate isomerase,Salmo salar (Salmon),Animal,Triosephosphate isomerase,247,No,NP_000356.1,79.7,6.6e-144
+APP94292.1,Scy p 8,Scylla paramamosain (green mud crab),Animal,Triosephosphate isomerase,248,No,NP_000356.1,65.3,5.0e-117
+ACR43476.1,Crangon Cra c 8 triosephosphate isomerase,Crangon crangon (Shrimp),Animal,triosephosphate isomerase,249,No,NP_001152759.1,63.7,5.1e-116
+XP_026795867.1,Pan h 8,Pangasianodon hypophthalmus,Animal,Triosephosphate isomerase,248,No,NP_001171651.1,75.8,0.0e+00
+AEB54655.1,Pro c 8 TPI,Procambarus clarkii (red swamp crayfish),Animal,triosephosphate isomerase,248,No,NP_001244955.1,65.7,9.8e-117
+BAE54432.1,Ommastrephes tropomyosin,Ommastrephes bartramii (red squid),Animal,Tropomyosin,284,No,NP_000248.2,28.7,1.1e-02
+APG42675.1,Haliotis Hal m 1 tropomyosin,Haliotis laevigata x Haliotis rubra,Animal,Tropomyosin,284,No,NP_001036817.1,46.0,7.8e-55
+XP_026775428.1,Pan h 4,Pangasianodon hypophthalmus,Animal,Tropomyosin,284,No,NP_001248315.1,31.4,7.1e-12
+CAB38044.1,Helix Hel as 1 tropomyosin,Helix aspersa (Brown garden snail),Animal,Tropomyosin,284,No,NP_001265119.1,42.3,2.0e-46
+AAC61869.1,Crassostrea Tropomyosin Cra g 1,Crassostrea virginica (Eastern oyster),Animal,Tropomyosin,160,No,NP_001265119.1,42.0,2.4e-24
+AAG08988.1,Perna Tropomyosin,Perna viridis (Asian green mussell),Animal,Tropomyosin,284,No,NP_001265119.1,41.1,7.6e-38
+ABU53681.1,Sinonovacula tropomyosin [Song paper],Sinonovacula constricta (Chinese razor clam),Animal,Tropomyosin,284,No,NP_001265119.1,43.9,9.2e-38
+ARX70262.1,Crassostrea Tropomyosin Cra g 1,Crassostrea gigas (American oyster),Animal,Tropomyosin,284,No,NP_001265119.1,44.2,3.0e-44
+BAE54431.1,Todarodes Tod p 1,Todarodes pacificus (Japanese flying squid),Animal,Tropomyosin,284,No,NP_001265119.1,43.1,1.5e-47
+BAF46896.1,Balanus r tropomyosin,Balanus rostratus (Crustacean),Animal,Tropomyosin,284,No,NP_001265119.1,43.4,3.0e-38
+BAH10151.1,Scapharca tropomyosin,Scapharca broughtonii (Clam),Animal,Tropomyosin,284,No,NP_001265119.1,40.9,5.1e-43
+BAH10152.1,Crassostrea Tropomyosin Cra g 1,Crassostrea gigas (American oyster),Animal,Tropomyosin,284,No,NP_001265119.1,43.1,9.2e-45
+BAH10153.1,Fulvia tropomyosin,Fulvia mutica (Mollusc),Animal,Tropomyosin,284,No,NP_001265119.1,43.9,1.9e-38
+BAH10154.1,Pseudocardium tropomyosin,Pseudocardium sachalinensis (Mollusc),Animal,Tropomyosin,284,No,NP_001265119.1,39.3,1.5e-38
+BAH10155.1,Tresus tropomyosin,Tresus keenae (clam),Animal,Tropomyosin,284,No,NP_001265119.1,38.8,1.6e-37
+BAH10156.1,Solen tropomyosin,Solen strictus (Gould's razor shell),Animal,Tropomyosin,284,No,NP_001265119.1,39.3,4.7e-39
+BAH10149.1,Batillus Tur c1,Batillus cornutus (Japanese turban shell),Animal,Tropomyosin,284,No,NP_001317273.1,42.6,5.8e-45
+AVD53650.1,Saccostrea glomerata Sac g 1,Saccostrea glomerata,Animal,Tropomyosin,284,No,NP_001352707.1,45.8,9.9e-72
+BAH10157.1,Venerupis tropomyosin,Venerupis philippinarum (Clam),Animal,Tropomyosin,284,No,NP_001352707.1,43.9,3.8e-68
+Q9NAS5.1,Anisakis Ani s 3 tropomyosin,Anisakis simplex (Parasitic fish worm),Animal,Tropomyosin,284,Yes,NP_001353176.1,27.6,6.1e-20
+CBY17558.1,Pandalus Pan b 1,Pandalus borealis (caribean shrimp),Animal,Tropomyosin,284,No,NP_001394251.1,48.3,6.0e-85
+A2V735.1,Chionoecetes tropomyosin,Chionoecetes opilio (Snow Crab),Animal,Tropomyosin,284,No,NP_001394251.1,47.9,2.5e-81
+AAC38996.1,Panulirus Pan s 1,Panulirus stimpsoni (Lobster),Animal,Tropomyosin,274,Yes,NP_001394251.1,46.3,6.3e-76
+AAC48288.1,Homarus Hom a 1,Homarus americanus (American lobster),Animal,Tropomyosin,284,Yes,NP_001394251.1,47.7,1.1e-82
+AAF35431.1,Charybdis Cha f 1,Charybdis feriatus (Crab),Animal,Tropomyosin,264,No,NP_001394251.1,49.0,9.7e-77
+AAG08987.1,Haliotis Hal m 1 tropomyosin,Haliotis diversicolor (Abalone),Animal,Tropomyosin,284,No,NP_001394251.1,45.8,2.4e-76
+AAX37288.1,Penaeus Pen m 1 tropomyosin,Penaeus monodon (Black tiger shrimp),Animal,Tropomyosin,284,No,NP_001394251.1,47.4,3.1e-82
+AAZ76743.1,Farfantepenaeus Pen a 1,Farfantepenaeus aztecus (Brown shrimp),Animal,Tropomyosin,284,Yes,NP_001394251.1,47.4,3.1e-82
+ABO71783.1,Eriocheir tropomyosin,Eriocheir sinensis (Chinese mitten crab),Animal,Tropomyosin,284,No,NP_001394251.1,48.3,2.1e-84
+ACB38288.1,Litopenaeus Lit v 1 tropomyosin,Litopenaeus vannamei (Whiteleg Shrimp),Animal,Tropomyosin,284,No,NP_001394251.1,47.4,3.1e-82
+ACR43473.1,Crangon Cra c 1 tropomyosin,Crangon crangon (Shrimp),Animal,Tropomyosin,284,No,NP_001394251.1,48.0,2.2e-84
+AGE44125.1,Portunus Por p 1 tropomyosin,Portunus pelagicus (blue swimmer crab),Animal,Tropomyosin,284,Yes,NP_001394251.1,47.4,1.0e-81
+AGF86397.1,Melicertus tropomyosin,Melicertus latisulcatus (King Prawn),Animal,Tropomyosin,284,No,NP_001394251.1,47.1,5.7e-81
+BAF47263.1,Marsupenaeus tropomyosin,Marsupenaeus japonicus (Kuruma Shrimp),Animal,Tropomyosin,284,No,NP_001394251.1,47.4,3.1e-82
+BAF47266.1,Paralithodes tropomyosin,Paralithodes camtschaticus (Kamchatka crab),Animal,Tropomyosin,284,No,NP_001394251.1,48.2,4.2e-83
+BAF47269.1,Erimacrus tropomyosin,Erimacrus isenbeckii (Horsehair crab),Animal,Tropomyosin,284,No,NP_001394251.1,48.2,6.0e-83
+BAF76430.1,Euphausia,Euphausia superba (Krill),Animal,Tropomyosin,284,Yes,NP_001394251.1,47.1,6.5e-80
+BAF95206.1,Oratosquilla tropomyosin,Oratosquilla oratoria (mantis shrimp),Animal,Tropomyosin,284,Yes,NP_001394251.1,47.7,1.9e-82
+BAH10150.1,Neptunea tropomyosin,Neptunea polycostata (Wrinkled Neptune),Animal,Tropomyosin,284,No,NP_001394251.1,46.8,1.7e-76
+AAA60330.1,Metapenaeus Met e 1 Tropomyosin,Metapenaeus ensis (Greasyback shrimp),Animal,Tropomyosin,274,No,NP_001394252.1,46.0,2.0e-76
+AAC48287.1,Homarus Hom a 1,Homarus americanus (American lobster),Animal,Tropomyosin,284,Yes,NP_001394252.1,48.3,3.6e-83
+ABL89183.1,Portunus Por s and t tropomyosin,Portunus sanguinolentus (Crab),Animal,Tropomyosin,284,No,NP_001394252.1,48.3,3.3e-83
+ABS12233.1,Scylla sp. (mud crab) tropomyosin,Scylla serrata (giant mud crab),Animal,Tropomyosin,284,No,NP_001394252.1,48.3,3.3e-83
+ABS12234.1,Portunus Por s and t tropomyosin,Portunus trituberculatus (Crab),Animal,Tropomyosin,284,No,NP_001394252.1,48.3,2.3e-83
+ACN87223.1,Pro c 1 tropomyosin,Procambarus clarkii (red swamp crayfish),Animal,Tropomyosin,284,No,NP_001394252.1,48.0,3.7e-83
+ADC55380.1,Macrobrachium rosenbergii shrimp tropomyosin,Macrobrachium rosenbergii (Giant River Prawn),Animal,Tropomyosin,284,No,NP_001394252.1,48.0,3.4e-84
+AEQ28167.1,Anisakis Ani s 3 tropomyosin,Anisakis simplex (Parasitic fish worm),Animal,Tropomyosin,284,Yes,NP_001394252.1,49.8,3.2e-83
+AGM32377.1,Coptotermes Copt f 7,Coptotermes formosanus,Animal,Tropomyosin,256,No,NP_001394252.1,46.3,6.3e-67
+AHA85706.1,Macrobrachium rosenbergii shrimp tropomyosin,Macrobrachium rosenbergii (Giant River Prawn),Animal,Tropomyosin,284,No,NP_001394252.1,48.0,6.8e-85
+BAF47265.1,Paralithodes tropomyosin,Paralithodes camtschaticus (Kamchatka crab),Animal,Tropomyosin,284,No,NP_001394252.1,47.4,8.2e-83
+BAF47268.1,Erimacrus tropomyosin,Erimacrus isenbeckii (Horsehair crab),Animal,Tropomyosin,284,No,NP_001394252.1,48.3,9.1e-83
+BAF76431.1,Euphausia,Euphausia pacifica (North Pacific Krill),Animal,Tropomyosin,284,Yes,NP_001394252.1,47.4,1.1e-80
+AAG08989.1,Mimachlamys Tropomyosin,Mimachlamys nobilis (Noble scallop),Animal,Tropomyosin,284,Yes,NP_001394253.1,45.9,7.8e-71
+BAE54429.1,Sepia tropomyosin,Sepia esculenta (cuttlefish),Animal,Tropomyosin,284,No,NP_002462.2,27.7,2.2e-02
+BAE54430.1,Sepioteuthis tropomyosin,Sepioteuthis lessoniana (bigfin reef squid),Animal,Tropomyosin,284,No,NP_002462.2,28.1,3.1e-02
+BAE54433.1,Octopus tropomyosin,Octopus vulgaris (Octopus),Animal,Tropomyosin,284,No,NP_002462.2,28.1,2.4e-02
+QBM01048.1,Tenebrio molitor tropomyosin mealworm,Tenebrio molitor (Yellow mealworm),Animal,Tropomyosin,284,Yes,XP_005254783.1,25.2,2.4e-04
+BAH10148.1,Haliotis Hal m 1 tropomyosin,Haliotis discus discus (Disk abalone),Animal,Tropomyosin,284,No,XP_011514917.1,25.0,1.8e-06
+XP_026781482.1,Pan h 4,Pangasianodon hypophthalmus,Animal,Tropomyosin,284,No,XP_016877860.1,49.7,2.3e-36
+AFV53352.1,Oreochromis Ore m 4 tropomyosin,Oreochromis mossambicus (Mozambique tilapia),Animal,Tropomyosin,284,No,XP_047279783.1,34.0,4.0e-03
+P20347.3,Solanum Sola t 3,Solanum tuberosum (Potato),Plant,Tropomyosin,222,Yes,—,,
+NP_001117128.1,Sal s 4,Salmo salar (Salmon),Animal,Trypsin and protease inhibitor,284,No,XP_047279783.1,34.0,5.0e-03
+AAB63099.1,Solanum Sola t 3,Solanum tuberosum (Potato),Plant,Trypsin and protease inhibitor,186,Yes,—,,
+BAA04149.1,Solanum Sola t 4,Solanum tuberosum (Potato),Plant,Trypsin and protease inhibitor,221,Yes,—,,
+P16348.1,Solanum Sola t 2,Solanum tuberosum (Potato),Plant,Trypsin and protease inhibitor,188,Yes,—,,
+AAB23464.1,Glycine Trypsin inhibitor,Glycine max (Soybean),Plant,Trypsin inhibitor,216,No,—,,
+AAB23482.1,Glycine Trypsin inhibitor,Glycine max (Soybean),Plant,Trypsin inhibitor,203,No,—,,
+AAB23483.1,Glycine Trypsin inhibitor,Glycine max (Soybean),Plant,Trypsin inhibitor,204,No,—,,
+CAA45777.1,Glycine Trypsin inhibitor,Glycine max (Soybean),Plant,Trypsin inhibitor,217,No,—,,
+CAA45778.1,Glycine Trypsin inhibitor,Glycine max (Soybean),Plant,Trypsin inhibitor,217,No,—,,
+CAA56343.1,Glycine Trypsin inhibitor,Glycine max (Soybean),Plant,Trypsin inhibitor,208,No,—,,
+CAR82265.1,Triticum omega-5 gliadin Tri a 19,Triticum aestivum (Wheat),Plant,Unclassified,359,Yes,NP_001121182.2,23.6,2.0e-04
+2CYG_A,"Musa acuminata Mus a 5 Endo-Beta-1,3-Glucanase",Musa acuminata (Banana),Plant,Unclassified,312,Yes,—,,
+AAB35897.1,Malus Mal d 2,Malus x domestica (Apple),Plant,Unclassified,26,No,—,,
+AAB37403.1,Secale Sec c 20,Secale cereale (Rye),Plant,Unclassified,23,Yes,—,,
+AAB37406.1,Secale Sec c 20,Secale cereale (Rye),Plant,Unclassified,29,Yes,—,,
+AAD32205.1,Pru ar 5,Prunus armeniaca (Apricot),Plant,Unclassified,168,No,—,,
+AAM55492.1,Manihot Man e 5.0101,Manihot esculenta (Cassava),Plant,Unclassified,177,No,—,,
+ABL77410.1,Anisakis Ani s 7 UA3-recognized allergen,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,1096,No,—,,
+ACS49840.1,Glycine 68kDa biotinylated protein,Glycine max (Soybean),Plant,Unclassified,643,Yes,—,,
+ACZ95445.1,Anisakis Ani s 10,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,231,No,—,,
+AEE98392.1,Manihot Man e 5.0101,Manihot esculenta (Cassava),Plant,Unclassified,177,No,—,,
+AGC60026.1,Anisakis Ani s 12,Anisakis pegreffii (Parasitic fish worm),Animal,Unclassified,264,No,—,,
+AGC60027.1,Anisakis Ani s 12,Anisakis pegreffii (Parasitic fish worm),Animal,Unclassified,264,No,—,,
+AGC60028.1,Anisakis Ani s 12,Anisakis pegreffii (Parasitic fish worm),Animal,Unclassified,264,No,—,,
+AGC60029.1,Anisakis Ani s 12,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,264,No,—,,
+AGC60030.1,Anisakis Ani s 12,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,264,No,—,,
+AGC60031.1,Anisakis Ani s 12,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,264,No,—,,
+AGL34968.1,Coffea Cof a 3,Coffea arabica (Coffee),Plant,Unclassified,65,No,—,,
+BAE20328.1,Triticum omega-5 gliadin Tri a 19,Triticum aestivum (Wheat),Plant,Unclassified,439,Yes,—,,
+BAJ78220.1,Anisakis Ani s 11,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,307,No,—,,
+BAJ78221.1,Anisakis Ani s 11,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,160,No,—,,
+BAJ78222.1,Anisakis Ani s 11,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,287,No,—,,
+BAJ78223.1,Anisakis Ani s 12,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,295,No,—,,
+BAT62430.1,Anisakis Ani s 14,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,217,No,—,,
+C0HKC0.1,Punica peptide Pommaclein Pun g 7,Punica granatum (Pomegranate),Plant,Unclassified,20,No,—,,
+CAB39376.1,Coprinus Cop c 1,Coprinus comatus (Shaggy mane),Plant,Unclassified,81,No,—,,
+CAR82266.1,Triticum omega-5 gliadin Tri a 19,Triticum aestivum (Wheat),Plant,Unclassified,272,Yes,—,,
+CAR82267.1,Triticum omega-5 gliadin Tri a 19,Triticum aestivum (Wheat),Plant,Unclassified,346,Yes,—,,
+O22116,Triticum Tri a 36,Triticum aestivum (Wheat),Plant,Unclassified,373,No,—,,
+P81943.3,Apium Api g 5,Apium graveolens (Celery),Plant,Unclassified,86,No,—,,
+P82947.1,Glycine Major Gly 50 kDa allergen,Glycine max (Soybean),Plant,Unclassified,17,No,—,,
+P82952.1,Prunus Seed allergenic protein 2 (Conglutin gamm,Prunus dulcis (Almond),Plant,Unclassified,25,No,—,,
+P83885.1,Anisakis Ani s 4,Anisakis simplex (Parasitic fish worm),Animal,Unclassified,14,Yes,—,,
+P84159.1,Citrus Cit s 1,Citrus sinensis (Navel orange),Plant,Unclassified,25,Yes,—,,
+P86980.1,Gadus morhua Gad m 3,Gadus morhua (Atlantic cod),Animal,Unclassified,15,No,—,,
+ABQ10638.1,Fagopyrum vicilin-like Fag e 3,Fagopyrum esculentum (Buckwheat),Plant,vicilin,136,No,—,,
+BAT21117.1,Fagopyrum vicilin-like Fag e 3,Fagopyrum esculentum (Buckwheat),Plant,vicilin,136,No,—,,
+BAA13973.1,Gallus Gal d 6 YGP42,Gallus gallus (chicken),Animal,"Vitellinogen, open beta-sheet",1912,No,—,,
+BAJ07603.1,Oncorhynchus Onc k 5,Oncorhynchus keta (chum salmon),Animal,von Willebrand factor type D domain,193,No,—,,
