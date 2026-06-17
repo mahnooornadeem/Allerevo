@@ -1,30 +1,3 @@
-"""
-train_model.py
----------------
-Allergenicity classifier for the evolutionary-divergence study.
-
-What it does:
-  1. Loads the cleaned protein dataset (allergen_clean.csv).
-  2. Builds simple, defensible features.
-  3. Trains Random Forest AND SVM (both named in the proposal).
-  4. Evaluates with 5-fold cross-validation (accuracy, precision, recall, F1).
-  5. Prints which features matter most.
-  6. Saves the trained Random Forest to allergen_model.pkl.
-
-Run:  python train_model.py
-
-Honesty notes (read these):
-  - "Allergen" here = confirmed by biological test (basophil/SPT);
-    "non-allergen" = IgE-binding only. This is the same rule as the S_AR column.
-  - Two experiments are run:
-       (A) Proteins WITH a human homolog (n~245). The % identity feature
-           is the core of the hypothesis.
-       (B) The FULL dataset (n~794). Proteins with no human homolog are the
-           most-diverged case; they get a 'has_homolog = 0' flag.
-  - With this much data and modest features, expect moderate accuracy.
-    A believable 65-75% with proper cross-validation is the honest result,
-    not 99%. Report it as a prototype.
-"""
 
 import pandas as pd
 import numpy as np
